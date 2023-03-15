@@ -1,7 +1,7 @@
 
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://gitee.com/jing123-654321/nkwk/blob/master/jar/0907.jar;md5;A36B59197A5AC083D5F8D59DCA01F2F8",
+"spider":"https://gitee.com/jing123-654321/nkwk/blob/master/jar/2909.jar;md5;A36B59197A5AC083D5F8D59DCA01F2F8",
 "sites": [
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "YQK_spider", "name": "🏃一起看TV","api": "csp_YQKAPP","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1,"ext": "https://api-tx.shumaxc.xyz","jar": "http://我不是.肥猫.love:63/Jar/qq2.jar;md5;4E872E4AA2D4F8B6F4FFBC11E6B3E1A1"},
