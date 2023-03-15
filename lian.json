@@ -1,7 +1,7 @@
-// 源地址 -->https://gitee.com/jing123-654321/nkwk/raw/master/lian.json
+// 源地址 -->https://gitee.com/jing123-654321/box2_1/raw/main/m.json
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=5",
-"spider":"https://gitee.com/jing123-654321/nkwk/blob/master/j100/230222.jar;md5;A36B59197A5AC083D5F8D59DCA01F2F8",
+"spider":"https://gitee.com/jing123-654321/box2_1/blob/main/sub/jar/0907.jar;md5;A36B59197A5AC083D5F8D59DCA01F2F8",
 "sites": [
 {"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
