@@ -1,6 +1,6 @@
 
 {
-"spider":"http://home.jundie.top:81/TVBox/0712.jar",
+"spider":"https://try.gitea.io/nikwok/yunplay/raw/branch/master/jarall/0712.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9UVkJveC90di9iYy50eHQ="]}]}],
 
