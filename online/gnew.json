@@ -28,14 +28,14 @@
 "ext": "https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/agefans.json"
 },
 {
-"key": "csp_xpath_jpyszl",
-"name": "极品直链(XP)",
+"key": "csp_GAOAA_jpyszl",
+"name": "GAOAA",
 "type": 3,
-"api": "csp_XPathMac",
+"api": "csp_GAOAA",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/jpys.json"
+"ext": "https://try.gitea.io/nikwok/yunplay/raw/branch/master/api/gaoaa.txt"
 },
 {"key":"csp_appysv2_天空V2","name":"天空V2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"},
 {"key":"csp_appysv2_天空","name":"天空(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tkys.tv/xgapp.php/v1/"},
