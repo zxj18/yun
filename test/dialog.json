@@ -7,7 +7,7 @@
       "type": "app",     
        "desc": "app",
       "show": false,
-      "oneTime": true
+      "oneTime": false
     }
   ]
 }
