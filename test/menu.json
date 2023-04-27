@@ -1,13 +1,13 @@
 {
-   "show":false,
+   "show":true,
   "data": [
     {
-      "name": "新版1.3.1",
+      "name": "新版1.7.8",
       "pic": "https://img.alicdn.com/imgextra/i3/913168C4PdCT3Opx_!!913168420.png",
       "url": "1",
       "type": "web",
       "desc": "app",
-      "toast":false
+      "toast":true
     }
   ]
 }
