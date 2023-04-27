@@ -7,7 +7,7 @@
       "url": "1",
       "type": "web",
       "desc": "app",
-      "toast":false
+      "toast":true
     }
   ]
 }
