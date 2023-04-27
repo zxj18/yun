@@ -7,7 +7,7 @@
       "url": "https://www.baidu.com",
       "type": "web",
       "desc": "app",
-      "toast":false
+      "toast":true
     }
   ]
 }
