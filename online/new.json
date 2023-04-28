@@ -3,7 +3,7 @@
 {
 	"spider": "https://zxj18.github.io/yun/jarall/20230427.jar;md5;186081C8B0D2707AE286812C99A1D8D6",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["https://zxj18.github.io/yun/mytv/tv3.txt"]}]}],
+	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9vdXQuenhnbGlmZS50b3AvZG93bi5waHAvMWZlYzVlNDA1Y2RiYmNmMzNiOTEzNDhmZmNkNThiZTMudHh0"]}]}],
 	
 	"sites":[
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
