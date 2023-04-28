@@ -6,7 +6,7 @@
 	"lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://zxj18.github.io/yun/mytv/tv4.txt",
+		    "url": "proxy://do=live&type=txt&ext=https://zxj18.github.io/yun/mytv/tv4.txt",
 		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		    "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
