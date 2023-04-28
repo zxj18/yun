@@ -3,11 +3,11 @@
 {
 	"spider": "https://zxj18.github.io/yun/jarall/20230427.jar;md5;186081C8B0D2707AE286812C99A1D8D6",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-	"live" :{
+	"live" :[
             "name": "直播",
             "type": 0,
             "url": "https://zxj18.github.io/yun/mytv/tv4.txt"
-	},
+	],
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
 }	
