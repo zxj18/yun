@@ -1,0 +1,85 @@
+{
+   
+//数据接口 clan://TVBox/MaooXB/
+//clan://TVBox/MaooXB/
+
+"sites":[
+        {
+            "name": "小雅的Alist",
+            "server": "http://alist.xiaoya.pro",
+            "type": "alist"
+        },
+        {
+            "name": "🚆资源小站",
+            "server": "https://pan.142856.xyz",
+            "type": "alist"
+        },
+        {
+            "name": "🐋一只鱼",
+            "server": "https://alist.youte.ml",
+            "type": "alist"
+        },
+        {
+            "name": "🌊七米蓝",
+            "server": "https://al.chirmyram.com",
+            "type": "alist"
+        },
+        {
+            "name": "🥼帅盘",
+            "server": "https://hi.shuaipeng.wang",
+            "type": "alist"
+        },
+        {
+            "name": "🐉神族九帝",
+            "server": "https://alist.shenzjd.com",
+            "type": "alist"
+        },
+        {
+            "name": "☃姬路白雪",
+            "server": "https://pan.jlbx.xyz",
+            "type": "alist"
+        },
+        {
+            "name": "💾DISK",
+            "server": "http://124.222.140.243:8080",
+            "type": "alist"
+        },
+        {
+            "name": "💫触光",
+            "server": "https://pan.ichuguang.com",
+            "type": "alist"
+        },
+        {
+            "name": "🎢轻弹浅唱",
+            "server": "https://g.xiang.lol",
+            "type": "alist"
+        }
+    ],
+    "homepage": "https://gitcode.net/qq_32394351/dr_py",
+    "sites": [
+	{
+	    "key":"Alist",
+	    "name":"Alist",
+	    "type":3,
+	    "api":"http://101.34.67.237/libs/alist.min.js",
+	    "searchable":1,
+	    "quickSearch":1,
+	    "filterable":0,
+	    "ext":"http://101.34.67.237/txt/json/alist.json"
+	},
+         {
+            "key":"teng",
+            "name":"🐧腾讯官源",
+            "type": 3,"api":"csp_QQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable":1
+        },
+         {
+            "key":"MGT",
+            "name":"🍋芒果官源",
+            "type":3,"api":"csp_Mgtv",
+            "searchable":1,
+            "quickSearch":1,
+    
+    
