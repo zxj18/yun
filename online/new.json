@@ -7,7 +7,7 @@
 	"epg": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://zxj18.github.io/yun/mytv/tv.txt",
+		    "url": "https://zxj18.github.io/yun/mytv/tv0.txt",
 		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		    "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
