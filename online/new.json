@@ -4,14 +4,7 @@
 	"spider": "https://zxj18.github.io/yun/jarall/20230427.jar;md5;186081C8B0D2707AE286812C99A1D8D6",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly96eGoxOC5naXRodWIuaW8veXVuL215dHYvdHYwLnR4dA=="]}]}],
-	"epg": [{
-		    "name": "live",
-		    "type": 0,
-		    "url": "https://zxj18.github.io/yun/mytv/tv0.txt",
-		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-		    "logo": "https://epg.112114.xyz/logo/{name}.png"
-	    }],
-	   
+	
 	"sites":[
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_豆瓣","name":"🔍豆瓣","type":3,"api":"https://agit.ai/945KM/grod/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/945KM/grod/raw/branch/master/js/豆瓣.js"},
