@@ -3,11 +3,11 @@
 {
 	"spider": "https://zxj18.github.io/yun/jarall/20230427.jar;md5;186081C8B0D2707AE286812C99A1D8D6",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly96eGoxOC5naXRodWIuaW8veXVuL215dHYvdHY0LnR4dA=="]}]}],
+	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly96eGoxOC5naXRodWIuaW8veXVuL215dHYvdHYudHh0"]}]}],
 	"epg": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "proxy://do=live&type=txt&ext=aHR0cHM6Ly96eGoxOC5naXRodWIuaW8veXVuL215dHYvdHY0LnR4dA==",
+		    "url": "https://zxj18.github.io/yun/mytv/tv.txt",
 		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		    "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
