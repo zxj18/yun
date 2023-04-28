@@ -8,8 +8,6 @@
             "type": 0,
             "url": "https://zxj18.github.io/yun/mytv/tv4.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        ],
-        {
             "group": "redirect",
             "channels": [
                 {
