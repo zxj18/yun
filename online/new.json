@@ -12,8 +12,6 @@
 	    }],
 	   
 	"sites":[
-{"key":"相声小品","name":"🅱️相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/945KM/grod/raw/branch/master/sub/Blixs.json"},
-{"key": "戏 曲" ,"name": "🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/945KM/grod/raw/branch/master/sub/Blixq.json"}
 ],
 "parses": [{
 		"name": "Web聚合",
