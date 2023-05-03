@@ -1,5 +1,4 @@
-   //网络兼职【正规渠道】
-//https://pan.quark.cn/s/62ffa7bac60d
+
 {
 	"spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/zxj18/yun/master/jarall/20230427.jar",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
@@ -7,13 +6,12 @@
 		    "name": "live",
 		    "type": 0,
 		    "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/zxj18/yun/master/live.txt",
-		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		    "epg": "",
 		    "logo": ""
 	    }],
 	   
 	"sites":[
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"dr_豆瓣","name":"🔍豆瓣","type":3,"api":"https://zxj18.github.io/yun/json/js/lib/drpy2.min.json","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://zxj18.github.io/yun/json/js/豆瓣.json"},
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360","name":"💘360影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
