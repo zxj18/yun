@@ -2,7 +2,7 @@
     "wallpaper": "http://101.34.67.237/pics",
     "dr_count": 119,
     "mode": 1,
-    "spider": "http://101.34.67.237/files/custom_spider_tang.jar",
+    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/zxj18/yun/master/jarall/custom_spider_tang.jar",
     "drives": [
         {
             "name": "小雅的Alist",
