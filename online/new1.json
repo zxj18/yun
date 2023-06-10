@@ -1,6 +1,17 @@
 {
     "spider": "https://ghproxy.com/https://raw.githubusercontent.com/zxj18/yunjava/main/jarall/fty230610.jar;md5;58123bc86783bb05ed7975928216c67f",
     "wallpaper": "https://cainisi.cf/壁纸",
+     "lives": [
+        {
+            "name": "live",
+            "type": 0,
+            "url": "https://tvbox.cainisi.cf/TV",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+            "playerType": 1
+        }
+    ]
     "sites": [
         {
             "key": "360影视",
@@ -1112,16 +1123,6 @@
                 "149.112.112.112"
             ]
         }
-    ],
-    "lives": [
-        {
-            "name": "live",
-            "type": 0,
-            "url": "https://tvbox.cainisi.cf/TV",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-            "playerType": 1
-        }
     ]
+   
 }
