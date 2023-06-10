@@ -351,7 +351,7 @@
 {"key":"MX 影院","name":"🌭MX 影院(聚)","type":1,"api":"http://49.235.107.145:81/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"MBO 影视","name":"🍹MBO 影视(聚)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0}],
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/zxj18/yunjava/main/jarall/xpg.jar;md5;f53c5ba675af3479a14cc786fbef6f58","wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL20zNS5ncmVsaWdodGluZy5jbi9odG1sL3piMS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly96eGoxOC5naXRodWIuaW8veXVuL215dHYvdHYudHh0"]}]}],
 "parses":[
 {
 "name":"解析聚合",
