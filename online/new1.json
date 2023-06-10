@@ -1,4 +1,8 @@
 {
+    "菜妮丝": "https://cainisi.cf",
+    "友情提醒": "接口完全免费，切勿付费购买。",
+    "spider": "https://tvbox.cainisi.cf/jar/fty230610.jar;md5;f29e9bc19d40c5d4cbb271ec41172c74",
+    "wallpaper": "https://cainisi.cf/壁纸",
     "sites": [
         {
             "key": "360影视",
@@ -1121,8 +1125,5 @@
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
             "playerType": 1
         }
-    ],
-    "wallpaper": "https://cainisi.cf/壁纸",
-    "spider":"https://ghproxy.com/https://raw.githubusercontent.com/zxj18/yunjava/main/jarall/lns.jar"   
-
+    ]
 }
