@@ -124,9 +124,173 @@
 
 {"key":"云播影视","name":"🏖️┃云播┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"免嗅:1,分类url:http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}.html"},
 
-{"key":"csp_555","name":"5️⃣️┃555┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/json/555.json"},
-
-{"key":"csp_555","name":"5️⃣️┃555┃影视","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com/"},
+        {
+            "key": "豆瓣推荐",
+            "name": "豆瓣┃推荐",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://tvbox.cainisi.cf/json/js/豆瓣.js"
+        },
+ {
+            "key": "农民影视",
+            "name": "农民┃影视",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.cainisi.cf/json/农民影视.json"
+        },
+        {
+            "key": "鸭奈飞",
+            "name": "鸭奈飞┃影视",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.cainisi.cf/json/js/鸭奈飞.js"
+        },
+  {
+            "key": "快看影视",
+            "name": "快看┃影视1",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.cainisi.cf/json/XBPQ/快看影视.json"
+        },
+ {
+            "key": "双十电影",
+            "name": "双十┃影视",
+            "type": 3,
+            "api": "csp_Dy1010",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "TVB云播",
+            "name": "TVB┃影视",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.cainisi.cf/json/js/TVB云播.js"
+        },
+        {
+            "key": "555电影",
+            "name": "555┃影视",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.cainisi.cf/json/js/555电影.js"
+        },
+      {
+            "key": "csp_Ysgc",
+            "name": "工场┃影视",
+            "type": 3,
+            "api": "csp_Ysgc",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.ysgc.vip"
+        },
+  {
+            "key": "csp_Ying",
+            "name": "樱花┃动漫",
+            "type": 3,
+            "api": "csp_Ying",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "COKEMV",
+            "name": "COKEMV┃影视",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+  {
+            "key": "无名小站",
+            "name": "无名┃影视",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.cainisi.cf/json/js/无名小站.js"
+        },
+  {
+            "key": "干饭影视",
+            "name": "干饭┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.cainisi.cf/json/XBPQ/干饭影视.json"
+        },
+        {
+            "key": "凌云影视",
+            "name": "凌云┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.cainisi.cf/json/XBPQ/凌云影视.json"
+        },
+  {
+            "key": "冷曦影视",
+            "name": "冷曦┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.cainisi.cf/json/XBPQ/冷曦影视.json"
+        },
+        {
+            "key": "NikeTV",
+            "name": "NikeTV┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.cainisi.cf/json/XBPQ/NikeTV.json"
+        },
+        {
+            "key": "APP影院",
+            "name": "APP┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.cainisi.cf/json/XBPQ/APP影院.json"
+        },
+        {
+            "key": "兔小贝",
+            "name": "📚儿童┃启蒙",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "ext": "https://tvbox.cainisi.cf/json/js/兔小贝.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
+        },
 
 
 {"key": "csp_appys_如意4K","name": "🐵️┃如意┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/","playUrl":"json:https://jx.4kdv.com/?url="},
