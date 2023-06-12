@@ -161,6 +161,15 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://tvbox.cainisi.cf/json/XBPQ/快看影视.json"
+       },
+{
+            "key": "爱奇艺",
+            "name": "爱奇艺┃官源",
+            "type": 3,
+            "api": "csp_Itv",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 1
         },
  {
             "key": "双十电影",
