@@ -50,6 +50,8 @@
 
 {"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/945KM/grod/raw/branch/master/sub/Alist.json"},
 
+{“key”：“csp_biubiu_大米星球”，“name”：“大米星球”，“type”：3，“api”：“csp_XBiubiu”，“可搜索”：1，“quickSearch”：1，“filterable”：0，“ext”：“https://freed.yuanhsing.cf/TVBox/MaooXB2/ 大米星球.json”}，	
+	
 {"key": "csp_biubiu_voflix","name": "🌀┃Vof┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/voflix.json"},
 
 {"key": "csp_MeiJu69","name": "🗽┃六九┃美剧","type": 3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
