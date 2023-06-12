@@ -289,7 +289,53 @@
             "quickSearch": 0,
             "filterable": 1
         },
+{
+      "key": "量子资源",
+      "name": "🥑量子资源",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+      "国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧", "韩国剧", "日本剧", "动漫", "体育", "剧情片", "动作片", "爱情片", "喜剧片"]
+    },
+   {
+      "key": "csp_AppMr",
+      "name": "🦍二明影视",
+      "type": 3,
+      "api": "csp_AppMr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+{
+      "key": "js_B站精简",
+      "name": "🅱️┃哔哩┃精简",
+      "type": 3,
+      "api": "http://m35.grelighting.cn/html/box/js/drpymin.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://m35.grelighting.cn/html/box/js/B站精简.js"
+    },
 
+{"key":"音乐","name":"🎤音乐现场","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://m35.grelighting.cn/html/box/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"},
+{"key":"热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://m35.grelighting.cn/html/box/Bili/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"},
+{"key":"儿童","name":"🐯儿童乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://m35.grelighting.cn/html/box/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"},
+{"key":"学习","name":"📝学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://m35.grelighting.cn/html/box/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"},
+{"key":"软件","name":"📚软件教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://m35.grelighting.cn/html/box/Bili/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"},
+{"key":"美食","name":"🍔美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://m35.grelighting.cn/html/box/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"},
+{"key":"戏曲","name":"👘戏曲合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://m35.grelighting.cn/html/box/Bili/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json"},
+{"key":"csp_xpath_yinfans","name":"💥音范丝4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://m35.grelighting.cn/html/box/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
+{"key":"利奥影院","name":"🍪利奥影院","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://m35.grelighting.cn/html/box/json/%E5%88%A9%E5%A5%A5%E5%BD%B1%E9%99%A2.json"},
+{"key":"焦炭影视","name":"💣焦炭影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://m35.grelighting.cn/html/box/json/%E7%84%A6%E7%82%AD%E5%BD%B1%E8%A7%86.json"},
+{"key":"动漫直链","name":"🎭动漫直链","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://m35.grelighting.cn/html/box/json/%E5%8A%A8%E6%BC%AB%E7%9B%B4%E9%93%BE.json"},
+{"key":"csp_xpath___动漫巴士","name":"🤖动漫巴士","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://m35.grelighting.cn/html/box/json/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"},
+{"key":"玖卿乐播","name":"🧯玖卿乐播(优)","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://vod.nqcode.cn/api.php/v1.vod"},
+{"key":"影图影视","name":"🥪影图影视(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"天堂资源","name":"🌶天堂资源(官)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"csp_xpath_kuqimv","name":"🎤经典MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://m35.grelighting.cn/html/box/json/%E7%BB%8F%E5%85%B8MV.json"},
 
 {"key": "csp_appys_如意4K","name": "🐵️┃如意┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/","playUrl":"json:https://jx.4kdv.com/?url="},
 
