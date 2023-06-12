@@ -480,12 +480,14 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 
-//{"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header":{"User-Agent":"Mozilla/5.0"}},
-//{"name":"Q1官解","type":1,"url":"https://lan.ccabc.cc/feimao.php?url=","header":{"User-Agent":"Mozilla/5.0"}},
-
-
-
-
+{"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"Q1官解","type":1,"url":"https://lan.ccabc.cc/feimao.php?url=","header":{"User-Agent":"Mozilla/5.0"}}, 
+{
+            "name": "咸鱼",
+            "type": 0,
+            "url": "https://jx.xyflv.com/?url=",
+	"ext": {"flag": ["qq","腾讯", "企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku", "YouKu","优酷", "sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k", "BYGA", "luanzi","AliS","dxzy", "bilibili","QEYSS","xigua", "西瓜视频", "腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"] }
+        },
 
 	{
             "name": "测试",
