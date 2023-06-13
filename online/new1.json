@@ -223,10 +223,10 @@
             "ext": "https://www.ysgc.vip"
         },
   {
-            "key": "csp_Ying",
+            "key": "csp_Ying2",
             "name": "樱花┃动漫",
             "type": 3,
-            "api": "csp_Ying",
+            "api": "csp_Ying2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
