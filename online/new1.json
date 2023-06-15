@@ -264,7 +264,7 @@
 
 {"key":"云播影视","name":"🏖️┃云播┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"免嗅:1,分类url:http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}.html"},
 
-     //{
+    {
             "key": "豆瓣推荐",
             "name": "豆瓣┃推荐",
             "type": 3,
