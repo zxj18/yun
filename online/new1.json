@@ -209,9 +209,13 @@
 {"key":"drpy_js_酷客影院","name":"🛳️酷客影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/酷客影院.js"},
 {"key":"drpy_js_影视之家","name":"🏞︎影视之家","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/影视之家.js"},	
 {"key":"drpy_js_万能影视","name":"💊‍万能影视","type":3,"api":"https://zxj18.github.io/yun//json/xiaosa/drpy.min.js","ext":"https://zxj18.github.io/yun//json/xiaosa/万能影视.js"},
+{"key":"csp_xbb_hdmoli","name":"🍀hdmoli","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/hdmoli.json"},
+{"key":"csp_app_淘剧社","name":"🐌淘剧社","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.shuhai99.com/api.php/v1.vod"},
+
 	
 	
 	
+{"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXP/yinghua.json"},		
 {"key":"drpy_js_童趣","name":"🧒🏼童趣","type":3,"api":"https://zxj18.github.io/yun//json/xiaosa/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/童趣.js"},
 {"key":"drpy_js_58动漫","name":"🖍︎58动漫","type":3,"api":"https://zxj18.github.io/yun//json/xiaosa/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/58动漫.js"},
 {"key":"drpy_js_奇米动漫","name":"🍘奇米动漫","type":3,"api":"https://zxj18.github.io/yun//json/xiaosa/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/奇米动漫.js"},	
