@@ -373,15 +373,6 @@
       "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
       "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/兔小贝.js"
     },
-  {
-            "key": "csp_Ying2",
-            "name": "樱花┃动漫",
-            "type": 3,
-            "api": "csp_Ying2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
             "key": "COKEMV",
             "name": "COKEMV┃影视",
