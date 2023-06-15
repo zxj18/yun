@@ -91,7 +91,7 @@
 {"key":"csp_XBPQ新视觉","name":"🌟┃视觉┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/json/新视觉影院.json"},
 //{"key":"农民","name":"🤴┃农民┃影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/nmys.json"},
 
-{"key":"js七七","name":"🌈┃七七┃影视","type":3,"api":"https://zxj18.github.io/yun/json/lib/drpy.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/zxj18/yun/main/jarall/kyun77.jar;md5;a68705e897da7b8d2d04dbeafeb95aaa"},
+{"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://y.xy47.top/down.php/f1119df4fc629e71103cc19e2c7b2338"},
 
 //{"key":"csp_Kunyu77","name":"🌈┃七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
