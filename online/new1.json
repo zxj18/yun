@@ -264,7 +264,7 @@
 
 {"key":"云播影视","name":"🏖️┃云播┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"免嗅:1,分类url:http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}.html"},
 
-       // {
+      {
             "key": "豆瓣推荐",
             "name": "豆瓣┃推荐",
             "type": 3,
@@ -895,5 +895,5 @@
   ],
 //"spider":"https://zxj18.github.io/yun/jarall/2212.jar;md5;be9fc684497e7c7e1bded93666e65f2b",
 //"spider": "https://tvbox.cainisi.cf/jar/fty230610.jar;md5;f29e9bc19d40c5d4cbb271ec41172c74",
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/zxj18/yunjava/main/jarall/pandaQ230604.jar;md5;fbd2da1f5dc1528f21573bf857d24b33"   
+//"spider":"https://ghproxy.com/https://raw.githubusercontent.com/zxj18/yunjava/main/jarall/pandaQ230604.jar;md5;fbd2da1f5dc1528f21573bf857d24b33"   
 }
