@@ -65,7 +65,7 @@
       "filterable": 0
     },
 
-//XPath
+
 {"key":"csp_xpath___利奥影视","name":"利奥影视〔X〕","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/bvio.json"},
 {"key":"csp_xpath___达龟影视","name":"达龟影视〔X〕","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/dadagui.json"},
 {"key":"csp_xpath___乐猪影视","name":"乐猪影视〔X〕","type":3,"api":"csp_XPathMac"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://tv.nxog.top/m/lezhutv.json"},
