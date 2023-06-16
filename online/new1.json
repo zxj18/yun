@@ -510,7 +510,7 @@
 {"key":"csp_xp_Jumi","name":"💢剧迷TV","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/Jumi.json"},
 {"key":"csp_xp_tjyy","name":"💢奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXP/huigutongying.json"},
 {"key":"csp_xp_agemys","name":"💢AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXP/agemys.json"},
-{"key":"csp_xbb_voflix","name":"🍀Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/voflix.json"},
+{"key":"csp_voflix","name":"🍀Voflix HD","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/voflix.json"},
 {"key":"csp_xbb_金眼影视","name":"🍀金眼影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/金眼影视.json"},
 {"key":"csp_xbb_茶杯狐","name":"🍀茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/茶杯狐.json"},
 {"key":"csp_xbb_搜狗影院","name":"🍀搜狗影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/搜狗影院.json"},
@@ -707,31 +707,10 @@
             }
         },
 
- {
-            "name": "咸鱼",
-            "type": 1,
-            "url": "https://jx.xyflv.com/?url="
-        },
-  {
-            "name": "M3U8",
-            "type": 1,
-            "url": "https://jx.m3u8.tv/jiexi/?url="
-        },
-        {
-            "name": "365",
-            "type": 1,
-            "url": "https://chaxun.truechat365.com/?url="
-        },
-	{"name": "小城","type": 1,"url": "https://jx.ccabc.cc/xc/?key=5567332json&url="},
+{"name": "小城","type": 1,"url": "https://jx.ccabc.cc/xc/?key=5567332json&url="},
 
 {"name":"巧技","type":1,"url":"http://pandown.pro/app/kkdy.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
         
-{"name": "小新", "type": 1, "url": "https://api.jiexi.la/?url="},
-
-{"name": "云栖", "type": 1, "url": "https://www.yq52.cn/film/?url="},
-
-{"name": "H8", "type": 1, "url": "https://www.h8jx.com/jiexi.php?url="},
-	
          {
 		"name": "bozrc",
 		"type": 0,
@@ -875,7 +854,27 @@
                 ]
             }
         },
- 
+
+ {
+            "name": "咸鱼",
+            "type": 1,
+            "url": "https://jx.xyflv.com/?url="
+        },
+  {
+            "name": "M3U8",
+            "type": 1,
+            "url": "https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "name": "365",
+            "type": 1,
+            "url": "https://chaxun.truechat365.com/?url="
+        },
+{"name": "小新", "type": 1, "url": "https://api.jiexi.la/?url="},
+
+{"name": "云栖", "type": 1, "url": "https://www.yq52.cn/film/?url="},
+
+{"name": "H8", "type": 1, "url": "https://www.h8jx.com/jiexi.php?url="},
 {"name":"PM","type":1,"url":"https://www.playm3u8.cn/jiexi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}],
 
 "rules": [
