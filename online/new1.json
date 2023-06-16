@@ -15,7 +15,7 @@
 	
 {"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com"},
 
-{"key": "csp_xpath_蚂蚁影视","name": "蚂蚁影视","type": 3,"api": "csp_XPathMacFilter","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zxj18/yun/master/json/JS2/js/%E8%9A%82%E8%9A%81%E5%BD%B1%E8%A7%86.js"},	
+{"key": "csp_xpath_蚂蚁影视","name": "蚂蚁影视","type": 3,"api": "csp_XPathMacFilter","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://zxj18.github.io/yun/json/JS2/js/%E8%9A%82%E8%9A%81%E5%BD%B1%E8%A7%86.js"},	
 
 //{"key":"360_spider","name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},	
 
@@ -555,10 +555,10 @@
 
 //{"key":"csp_SP360","name":"📺┃360┃官源","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_SP360","name":"📺┃360┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zxj18/yun/master/json/JS2/js/360%E5%BD%B1%E8%A7%86.js"},
+{"key":"csp_SP360","name":"📺┃360┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://zxj18.github.io/yun/json/JS2/js/360%E5%BD%B1%E8%A7%86.js"},
 
-//{"key":"MGT","name":"🍋┃芒果┃官源","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://zxj18.github.io/yun/jarall/mgiqyitv.jar"},
+{"key":"MGT","name":"🍋┃芒果┃官源","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://zxj18.github.io/yun/jarall/mgiqyitv.jar"},
+//{"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://zxj18.github.io/yun/jarall/mgiqyitv.jar"},
 
 {"key": "csp_Ysgc","name": "🎥┃影视┃工厂","type": 3,"api": "csp_Ysgc","searchable": 1,"quickSearch": 1,"filterable": 1,"m3u8ads": "hd.youyhn.com","ext": "https://www.ysgc.fun"},
 
