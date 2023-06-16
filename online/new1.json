@@ -197,9 +197,9 @@
 {"key":"drpy_js_万能影视","name":"💊‍万能影视","type":3,"api":"https://zxj18.github.io/yun//json/xiaosa/drpy.min.js","ext":"https://zxj18.github.io/yun//json/xiaosa/万能影视.js"},
 {"key":"csp_xbb_hdmoli","name":"🍀hdmoli","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/hdmoli.json"},
 {"key":"csp_app_淘剧社","name":"🐌淘剧社","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.shuhai99.com/api.php/v1.vod"},
-{"key": "teyond__gf__极酷影视","name": "极酷影视〔G〕","type": 3,"api": "csp_AppYsV2" ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jiku.vip/mogai_api.php/v1.vod"},
-{"key": "teyond__gf__好的影视","name": "好的影视〔G〕","type": 3,"api": "csp_AppYsV2" ,"searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://123.ok00.xyz/api.php/v1.vod"},
-{"key": "teyond__gf__一零八零","name": "一零八零〔G〕","type": 3,"api": "csp_AppYsV2"  ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://123.250idc.com/mogai_api.php/v1.vod"},
+{"key": "csp_AppYsV2__极酷影视","name": "极酷影视〔G〕","type": 3,"api": "csp_AppYsV2" ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jiku.vip/mogai_api.php/v1.vod"},
+{"key": "csp_AppYsV2__好的影视","name": "好的影视〔G〕","type": 3,"api": "csp_AppYsV2" ,"searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://123.ok00.xyz/api.php/v1.vod"},
+{"key": "csp_AppYsV2__一零八零","name": "一零八零〔G〕","type": 3,"api": "csp_AppYsV2"  ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://123.250idc.com/mogai_api.php/v1.vod"},
 {"key": "teyond__fl__芒果资源","name": "芒果资源〔C〕","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
     	
 	
@@ -244,9 +244,9 @@
 		
 {"key":"csp_Smdyy","name": "🐴┃神马┃影视","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"csp_Lgyy","name":"🌀┃蓝光┃影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
+//{"key":"csp_Lgyy","name":"🌀┃蓝光┃影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 
-//{"key":"XBPQ_Lgyy","name":"🌀┃蓝光┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/蓝光影院.json"},
+{"key":"XBPQ_Lgyy","name":"🌀┃蓝光┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/蓝光影院.json"},
 
 {"key":"csp_fant","name":"🍙┃饭团┃影视","type":3,"api":"csp_Fantuan","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.fantuanhd.com"},
 
