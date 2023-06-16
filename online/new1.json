@@ -15,7 +15,7 @@
 	
 {"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com"},
 
-{"key":"mayiys_spider","name":"蚂蚁影视","api":"csp_Mayiys","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},	
+{"key": "csp_xpath_蚂蚁影视","name": "蚂蚁影视","type": 3,"api": "csp_XPathMacFilter","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},	
 
 //{"key":"360_spider","name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},	
 
@@ -352,7 +352,7 @@
             "filterable": 1,
             "ext": "https://www.ysgc.vip"
         },
-	 {
+	// {
       "key": "drpy_js_兔小贝",
       "name": "🕵兔小贝🕵",
       "type": 3,
