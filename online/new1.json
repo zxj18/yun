@@ -217,7 +217,7 @@
 {"key":"drpy_js_广播迷FM","name":"📻️广播迷FM","type":3,"api":"https://zxj18.github.io/yun//json/xiaosa/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/广播迷FM.js"},	
 {"key":"drpy_js_喜马拉雅","name":"🐎喜马拉雅","type":3,"api":"https://zxj18.github.io/yun//json/xiaosa/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/喜马拉雅.js"},	
 {"key":"drpy_js_六月听书","name":"6︎🈷听书","type":3,"api":"https://zxj18.github.io/yun//json/xiaosa/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/六月听书.js"},
-//{"key":"drpy_js_有声小说吧","name":"🔊有声小说吧","type":3,"api":"https://zxj18.github.io/yun//json/xiaosa/drpy.min.js","ext":"http://alist.xn--z7x900a.love:63/有声小说吧.js"},	
+{"key":"drpy_js_有声小说吧","name":"🔊有声小说吧","type":3,"api":"https://zxj18.github.io/yun//json/xiaosa/drpy.min.js","ext":"http://alist.xn--z7x900a.love:63/有声小说吧.js"},	
 {"key":"drpy_js_博看听书","name":"👩🏻‍🎓博看听书","type":3,"api":"https://zxj18.github.io/yun//json/xiaosa/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/博看听书.js"},	
 {"key":"drpy_js_海洋听书","name":"🎒海洋听书","type":3,"api":"https://zxj18.github.io/yun//json/xiaosa/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/海洋听书.js"},
 
@@ -352,7 +352,7 @@
             "filterable": 1,
             "ext": "https://www.ysgc.vip"
         },
-	// {
+	{
       "key": "drpy_js_兔小贝",
       "name": "🕵兔小贝🕵",
       "type": 3,
