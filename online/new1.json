@@ -44,7 +44,7 @@
 {"key":"mtv_素白影视","name":"素白","type":3,"api":"csp_meowtv" ,"searchable":2,"quickSearch":0,"filterable":1,"api":"http://111.67.196.181/js/drpy.min.js","ext":"http://111.67.196.181/js/素白影视.js","jar":"http://meow.miaotvs.cn/03.png;md5;E8F444CDA5A3FE0F21B31DB313E93753"},
 {"key":"mtv_搜狗视频","name":"搜狗","type":3,"api":"csp_meowtv" ,"searchable":2,"quickSearch":0,"filterable":1,"api":"http://111.67.196.181/js/drpy.min.js","ext":"http://111.67.196.181/js/搜狗视频.js"},
 {"key":"mtv_子子影视","name":"子子","type":3,"api":"csp_xBPQ"   ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/子子影视.json","jar":"http://meow.miaotvs.cn/03.png;md5;E8F444CDA5A3FE0F21B31DB313E93753"},
-{"key":"mtv_哔哩兔源","name":"哔兔","type":3,"api":"csp_xBPQ"   ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/哔哩兔源.json"},
+{"key":"mtv_哔哩兔源","name":"哔兔","type":3,"api":"csp_xBPQ"  ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/哔哩兔源.json"},
 {"key":"mtv_西瓜影视","name":"西瓜","type":3,"api":"csp_XPathMac" ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/西瓜影视.json"},
 {"key":"mtv_棋牌娱乐","name":"棋牌","type":3,"api":"csp_Bili"  ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/棋牌娱乐.json"},
 
