@@ -12,6 +12,65 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
 
 "sites":[
+
+          {
+            "key": "野荷塘",
+            "name": "野荷塘┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.cainisi.cf/json/XBPQ/野荷塘.json"
+        },
+	 {
+            "key": "爱奇艺",
+            "name": "爱奇艺┃官源",
+            "type": 3,
+            "api": "csp_Itv",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "腾讯",
+            "name": "腾讯┃官源",
+            "type": 3,
+            "api": "csp_Qtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "芒果",
+            "name": "芒果┃官源",
+            "type": 3,
+            "api": "csp_Mtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
+ {
+            "key": "360影视",
+            "name": "360┃官源",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.cainisi.cf/json/XBPQ/360影视.json"
+        },
+ {
+            "key": "农民影视",
+            "name": "农民┃影视",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.cainisi.cf/json/农民影视.json"
+        },
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
