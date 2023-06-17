@@ -5,7 +5,7 @@
 "sites": [
 
 {"key":"mtv_豆瓣推荐","name":"推荐","type":3,"api":"csp_meowtv"        ,"searchable":0,"quickSearch":0,"filterable":1,"api":"http://111.67.196.181/js/drpy.min.js" ,"ext":"http://111.67.196.181/js/豆瓣推荐.js"},
-{"key":"mtv_一起看TV","name":"一起","type":3,"api":"csp_YQKAPP"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top","m3u8ads": "hd.youyhn.com"},
+{"key":"YQK_spider","name":"🙆┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"playerType": 2,"ext": "https://hk-api-cf.yqk5659.com"},
 {"key":"mtv_图图影视","name":"图图","type":3,"api":"csp_AppTT"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","m3u8ads": "hd.youyhn.com"},
 {"key":"mtv_饭团视频","name":"饭团","type":3,"api":"csp_Fantuan"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 //{"key":"mtv_荷塘影视","name":"荷塘","type":3,"api":"csp_Yht"           ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
