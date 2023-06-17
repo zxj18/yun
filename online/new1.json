@@ -9,7 +9,7 @@
 {"key":"mtv_图图影视","name":"图图","type":3,"api":"csp_AppTT"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","m3u8ads": "hd.youyhn.com"},
 {"key":"mtv_饭团视频","name":"饭团","type":3,"api":"csp_Fantuan"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 //{"key":"mtv_荷塘影视","name":"荷塘","type":3,"api":"csp_Yht"           ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
-//{"key":"mtv_百影视频","name":"百影","type":3,"api":"csp_MianHua"       ,"searchable":1,"quickSearch":1,"filterable":0,"jar":"http://meow.miaotvs.cn/07.png;md5;95566FF667DFC50036C34C20A5DAAA8A","ext":"http://47.104.99.175"},
+//{"key":"mtv_百影视频","name":"百影","type":3,"api":"csp_MianHua"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
 {"key":"mtv_三五电影","name":"三五","type":3,"api":"csp_Ys555"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 {"key":"mtv_影视工场","name":"工场","type":3,"api":"csp_Ysgc"          ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.fun"},
 {"key":"mtv_神马影视","name":"神马","type":3,"api":"csp_Smdyy"         ,"searchable":1,"quickSearch":1,"filterable":1},
@@ -34,8 +34,8 @@
 {"key":"mtv_厂长影视","name":"厂长","type":3,"api":"csp_Czsapp"        ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_动漫巴士","name":"巴士","type":3,"api":"csp_Dm84"          ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_日本动漫","name":"日漫","type":3,"api":"csp_Anime1"        ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_樱花动漫","name":"樱花","type":3,"api":"csp_Ying"          ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://meow.miaotvs.cn/06.png;md5;69EF6396EB2400C03529C7714D96841A"},
-{"key":"mtv_异界动漫","name":"异界","type":3,"api":"csp_Ysj"           ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://meow.miaotvs.cn/06.png;md5;69EF6396EB2400C03529C7714D96841A"},
+{"key":"mtv_樱花动漫","name":"樱花","type":3,"api":"csp_Ying"          ,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"mtv_异界动漫","name":"异界","type":3,"api":"csp_Ysj"           ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_360影视" ,"name":"360" ,"type":3,"api":"csp_SP360"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_数字影视","name":"数字","type":3,"api":"csp_SP2345"        ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_搜狗视频","name":"搜狗","type":3,"api":"csp_meowtv"        ,"searchable":2,"quickSearch":0,"filterable":1,"api":"http://111.67.196.181/js/drpy.min.js","ext":"http://111.67.196.181/js/搜狗视频.js"},
@@ -72,7 +72,7 @@
 {"key":"mtv_VOFLIXS2","name":"voflix","type":3,"api":"csp_XBiubiu"     ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/VOFLIXS.json" },
 {"key":"mtv_片库影视","name":"片库","type":3,"api":"csp_XYQHiker"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/片库影视.json"},
 {"key":"mtv_九一影视","name":"九一","type":3,"api":"csp_xBPQ"          ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/九一影视.json"},
-{"key":"mtv_无名小站","name":"无名","type":3,"api":"csp_XYQHiker"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/无名小站.json","jar":"http://meow.miaotvs.cn/05.png;md5;D40C6A5175AF80468254162CF687D3F4"},
+{"key":"mtv_无名小站","name":"无名","type":3,"api":"csp_XYQHiker"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/无名小站.json"},
 {"key":"mtv_野马影院","name":"野马","type":3,"api":"csp_XYQHiker"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/野马影院.json"},
 {"key":"mtv_极客影院","name":"极客","type":3,"api":"csp_XYQHiker"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/极客影院.json"},
 {"key":"mtv_爱看影视","name":"爱看","type":3,"api":"csp_xBPQ"          ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/爱看影视.json"},
@@ -88,11 +88,11 @@
 {"key":"mtv_奇优影院","name":"奇优","type":3,"api":"csp_XBiubiu"       ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/奇优影院.json"},
 {"key":"mtv_金眼影视","name":"金眼","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/金眼影视.json"},
 {"key":"mtv_外剧迷源","name":"外剧","type":3,"api":"csp_XYQHiker"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/外剧迷源.json"},
-{"key":"mtv_小纸条源","name":"纸条","type":3,"api":"csp_Paper"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"http://meow.miaotvs.cn/06.png;md5;69EF6396EB2400C03529C7714D96841A"},
-{"key":"mtv_云搜资源","name":"云搜","type":3,"api":"csp_UpYun"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"http://meow.miaotvs.cn/06.png;md5;69EF6396EB2400C03529C7714D96841A"},
-{"key":"mtv_找搜资源","name":"找搜","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234","jar":"http://meow.miaotvs.cn/06.png;md5;69EF6396EB2400C03529C7714D96841A"},
-{"key":"mtv_易搜资源","name":"易搜","type":3,"api":"csp_YiSo"          ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"http://meow.miaotvs.cn/06.png;md5;69EF6396EB2400C03529C7714D96841A"},
-{"key":"mtv_盘搜资源","name":"盘搜","type":3,"api":"csp_PanSou"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"http://meow.miaotvs.cn/06.png;md5;69EF6396EB2400C03529C7714D96841A"},
+{"key":"mtv_小纸条源","name":"纸条","type":3,"api":"csp_Paper"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"mtv_云搜资源","name":"云搜","type":3,"api":"csp_UpYun"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"mtv_找搜资源","name":"找搜","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234"},
+{"key":"mtv_易搜资源","name":"易搜","type":3,"api":"csp_YiSo"          ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"mtv_盘搜资源","name":"盘搜","type":3,"api":"csp_PanSou"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key":"push_agent"  ,"name":"推送","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/盘搜资源.json"}],
 
 //解析接口
@@ -177,7 +177,7 @@
 
 //jar+壁纸
 
-"spider":"http://meow.miaotvs.cn/01.png;md5;83FB605345300DA7C3D2C2F2A36C6CDC",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/zxj18/yun/master/jarall/dhbcsp.jar",
 
 //电视直播
 
