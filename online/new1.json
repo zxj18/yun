@@ -740,10 +740,10 @@
 
 "parses":[
 
-{"name":"聚合","type":3,"url":"Demo"},
-{"name":"轮询","type":2,"url":"Sequence"},
-{"name":"并发","type":2,"url":"Parallel"},
-{"name":"Web","type":3,"url":"Web"},
+{"name":"解析聚合","type":3,"url":"Demo"},
+{"name":"json轮询","type":2,"url":"Sequence"},
+{"name":"json并发","type":2,"url":"Parallel"},
+{"name":"Web聚合","type":3,"url":"Web"},
 	{
             "name": "测试",
             "type": 1,
