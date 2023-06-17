@@ -88,12 +88,6 @@
 {"key":"mtv_奇优影院","name":"奇优","type":3,"api":"csp_XBiubiu"       ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/奇优影院.json"},
 {"key":"mtv_金眼影视","name":"金眼","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/金眼影视.json"},
 {"key":"mtv_外剧迷源","name":"外剧","type":3,"api":"csp_XYQHiker"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/外剧迷源.json"},
-{"key":"mtv_小纸条源","name":"纸条","type":3,"api":"csp_Paper"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"http://meow.miaotvs.cn/06.png;md5;69EF6396EB2400C03529C7714D96841A"},
-{"key":"mtv_云搜资源","name":"云搜","type":3,"api":"csp_UpYun"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"http://meow.miaotvs.cn/06.png;md5;69EF6396EB2400C03529C7714D96841A"},
-{"key":"mtv_找搜资源","name":"找搜","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234","jar":"http://meow.miaotvs.cn/06.png;md5;69EF6396EB2400C03529C7714D96841A"},
-{"key":"mtv_易搜资源","name":"易搜","type":3,"api":"csp_YiSo"          ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"http://meow.miaotvs.cn/06.png;md5;69EF6396EB2400C03529C7714D96841A"},
-{"key":"mtv_盘搜资源","name":"盘搜","type":3,"api":"csp_PanSou"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"http://meow.miaotvs.cn/06.png;md5;69EF6396EB2400C03529C7714D96841A"},
-{"key":"push_agent"  ,"name":"推送","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/盘搜资源.json"}],
 
 
 //解析接口
