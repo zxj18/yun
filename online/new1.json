@@ -10,7 +10,7 @@
 {"key": "直播转点播","name":"🐼️┃电视┃直播","type": 3,"api":"http://我不是.肥猫.love:63/JS/直播转点播2.js","ext":"http://我不是.肥猫.love:63/lives/直播仓.json"},
 
 {"key":"mtv_数字影视","name":"数字","type":3,"api":"csp_SP2345"        ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://meow.miaotvs.cn/03.png;md5;E8F444CDA5A3FE0F21B31DB313E93753"},
-{"key":"csp_Kunyu77","name":"🌈┃七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/zxj18/yunjava/main/jarall/pandaQ230604.jar;md5;fbd2da1f5dc1528f21573bf857d24b33"},
+{"key":"csp_Kunyu77","name":"🌈┃七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/zxj18/yunjava/main/jarall/tvpro.jar"},
 
 	
 
