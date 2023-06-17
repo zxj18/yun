@@ -26,7 +26,7 @@
 {"key":"mtv_双十影视","name":"双十","type":3,"api":"csp_Dy1010"        ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://meow.miaotvs.cn/03.png;md5;E8F444CDA5A3FE0F21B31DB313E93753"},
 {"key":"mtv_蓝光影院","name":"蓝光","type":3,"api":"csp_Lgyy"          ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://meow.miaotvs.cn/03.png;md5;E8F444CDA5A3FE0F21B31DB313E93753"},
 //{"key":"mtv_voflixs1","name":"voflix","type":3,"api":"csp_Voflix"      ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://meow.miaotvs.cn/02.png;md5;F3687D6E511A73CAF72F4757A04518B2"},
-{"key":"mtv_布雷蓝光","name":"布雷","type":3,"api":"csp_meowtv"        ,"searchable":0,"quickSearch":0,"filterable":1,"api":"http://111.67.196.181/js/drpy.min.js","ext":"http://111.67.196.181/js/布雷蓝光.js"},
+//{"key":"mtv_布雷蓝光","name":"布雷","type":3,"api":"csp_meowtv"        ,"searchable":0,"quickSearch":0,"filterable":1,"api":"http://111.67.196.181/js/drpy.min.js","ext":"http://111.67.196.181/js/布雷蓝光.js"},
 {"key":"mtv_土狗影院","name":"土狗","type":3,"api":"csp_meowtv"        ,"searchable":2,"quickSearch":0,"filterable":1,"api":"http://111.67.196.181/js/drpy.min.js","ext":"http://111.67.196.181/js/土狗影院.js"},
 {"key":"mtv_爱妃影视","name":"爱妃","type":3,"api":"csp_meowtv"        ,"searchable":2,"quickSearch":0,"filterable":1,"api":"http://111.67.196.181/js/drpy.min.js","ext":"http://111.67.196.181/js/艾菲影视.js"},
 {"key":"mtv_素白影视","name":"素白","type":3,"api":"csp_meowtv"        ,"searchable":2,"quickSearch":0,"filterable":1,"api":"http://111.67.196.181/js/drpy.min.js","ext":"http://111.67.196.181/js/素白影视.js","jar":"http://meow.miaotvs.cn/03.png;md5;E8F444CDA5A3FE0F21B31DB313E93753"},
