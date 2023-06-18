@@ -710,9 +710,9 @@
 
 ],
 
-"lives":[{"name": "live","type": 0,"playerType":1,"url": "aHR0cHM6Ly96eGoxOC5naXRodWIuaW8veXVuL215dHYvdHYudHh0","ua": "okhttp/3.12.13","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","ua": "okhttp/3.12.13","logo":"https://epg.112114.xyz/logo/{name}.png"},     
+"lives":[{"name": "live","type": 0,"playerType":1,"url": "aHR0cHM6Ly96eGoxOC5naXRodWIuaW8veXVuL215dHYvc3R2LnR4dA==","ua": "okhttp/3.12.13","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","ua": "okhttp/3.12.13","logo":"https://epg.112114.xyz/logo/{name}.png"},     
 
-    {"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly96eGoxOC5naXRodWIuaW8veXVuL215dHYvdHYudHh0"]}]}],
+    {"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly96eGoxOC5naXRodWIuaW8veXVuL215dHYvc3R2LnR4dA=="]}]}],
 
 "parses":[
 {"name":"聚合","type":3,"url":"Demo"},
