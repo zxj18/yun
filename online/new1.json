@@ -741,14 +741,14 @@
 
 "parses":[
 
-{"name":"聚合","type": 3,"url":"Demo"},
-{"name":"轮询","type": 2,"url":"Sequence"},
-{"name":"并发","type": 2,"url":"Parallel"},
-{"name":"Web","type": 3,"url":"Web"},	
+{"name":"解析聚合","type":3,"url":"Demo"},
+{"name":"Web聚合","type":3,"url":"Web"},
+{"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"Json并发","type":2,"url":"Parallel"},
 
 	 {
             "name": "海量",
-            "type": 0,
+            "type": 1,
             "url": "https://chaxun.truechat365.com/?url="
         },
 
