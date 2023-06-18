@@ -751,7 +751,7 @@
 	
 	{
             "name": "cs",
-            "type":1,
+            "type":0,
             "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
             "ext": {
                 "flag": [
