@@ -338,7 +338,7 @@
 {"key":"csp_Kunyu77","name":"🌈┃七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"多米蓝光","name":"🌽️┃多米┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},
 {"key":爱迪V2,"name":"💡️┃爱迪┃影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"}, 	
-{"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com"},
+{"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/io9/java/raw/master/jar/tvpro.jar","ext":"https://api.haokantj.com"},
 {"key": "csp_xpath_蚂蚁影视","name": "蚂蚁影视","type": 3,"api": "csp_XPathMacFilter","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/MYYS.json"},	
 {"key":"csp_apple","name":"🍎┃苹果┃影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/zxj18/yunjava/main/jarall/108.jar;md5;923aea278b25c23c3c6397607cd20fed" },
 
