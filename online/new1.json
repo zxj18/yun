@@ -512,7 +512,7 @@
 {"key":"云播影视","name":"🏖️┃云播┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"免嗅:1,分类url:http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}.html"},
 
 {"key": "1080zyk","name": "❤️1080ZYK","type": 1,"api": "https://api.1080zyku.com/inc/api_mac10.php",	"searchable": 1,"quickSearch": 0}, 
-{"key":"csp_Nkdy","name":"⏺南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/io9/java/raw/master/jar/hail4.png"},
+{"key":"csp_Nkdy","name":"⏺南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/io9/java/raw/master/jar/hail4.png","ext":"https://www.nkdy.com"},
 {"key":"csp_xbb_红领巾","name":"🍀红领巾","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/红领巾.json"},
 {"key":"csp_xbb_老电影","name":"🍀老电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/老电影.json"},
 {"key":"csp_xbb_如如影视","name":"🍀如如影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/如如影视.json"},
