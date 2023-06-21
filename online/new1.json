@@ -52,16 +52,7 @@
             "filterable": 1
         },
 
- {
-            "key": "360影视",
-            "name": "360┃官源",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-	 "jar":"https://gitee.com/io9/java/raw/master/jar/hail4.png" 
-        },
+{"key":"csp_SP360","name":"📺┃360┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
  {
             "key": "农民影视",
             "name": "农民┃影视",
