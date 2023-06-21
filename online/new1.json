@@ -371,7 +371,7 @@
 //{"key" : "Alist1","name" :"🅿┃Alis ┃网盘","type" : 3,"api" : "https://gitee.com/io9/json/raw/master/json/JS2/lib/alist.min.js","ext" : "https://gitee.com/io9/json/raw/master/json/JS2/js/alist.json"},
 //{"key": "Alist2","name": "🅿┃Alis ┃搜索","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/jh.json","jar":"http://我不是.肥猫.love:63/Jar/Alist3.jar;md5;906B337D4B4BAEF13292D004E5FD8F9B"},
 //{"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/alist.json"},
-{"key":"AList","name":"🍰AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/SCXSVIP/TV@main/Alist_XS.json","jar":"https://la.kstore.space/download/2863/FM.jar;md5;e889b257fb9dbaf519f3c095231c12ea"},
+{"key":"AList","name":"🍰AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/Alist_XS.json","jar":"https://gitee.com/io9/json/raw/master/json/JS2/js/FM.jar"},
 //{"key":"csp_Paper","name":"📜┃纸条┃云盘","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/fatcat/token.txt"},
 
 //{"key": "Tian","name": "🐾┃天天┃影视","type": -1,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"bdc1c75081e5e477189a463baa47e392"},
