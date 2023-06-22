@@ -464,7 +464,7 @@
 {"key":"drpy_js_酷客影院","name":"🛳️酷客影院","type":3,"api":"https://gitee.com/io9/json/raw/master/json/xiaosa/drpy.min.js","ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/酷客影院.js"},
 {"key":"drpy_js_影视之家","name":"🏞︎影视之家","type":3,"api":"https://gitee.com/io9/json/raw/master/json/xiaosa/drpy.min.js","ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/影视之家.js"},	
 {"key":"drpy_js_万能影视","name":"💊‍万能影视","type":3,"api":"https://gitee.com/io9/json/raw/master/json/xiaosa/drpy.min.js","ext":"https://gitee.com/io9/json/raw/master/json/xiaosa/万能影视.js"},
-{"key":"csp_xbb_hdmoli","name":"🍀hdmoli","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/io9/java/raw/master/jar/hail4.png ;md5;0a7b50ab24101344ad09260003144e46","ext":"https://www.hdmoli.com"},
+{"key":"csp_xbb_hdmoli","name":"🍀hdmoli","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/io9/java/raw/master/jar/hail4.png ;md5;0a7b50ab24101344ad09260003144e46","ext":"https://www.hdmoli.com"},
 {"key":"csp_app_淘剧社","name":"🐌淘剧社","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.shuhai99.com/api.php/v1.vod"},
  
 {"key":"csp_XBiuCOKEMV","name":"🍬┃可乐┃影视","type":3,"api":"csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
