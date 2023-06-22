@@ -542,59 +542,15 @@
 {"key":"csp_xbb_300影视","name":"🍀300影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/300影视.json"},
 {"key":"csp_xbb_双十电影","name":"🍀双十电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/双十电影.json"},
 
-{"key":"csp_xbb_韩剧佬","name":"🍀韩剧佬","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/韩剧佬.json"},  
-{"key":"csp_xbb_韩剧在线","name":"🍀韩剧在线","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/韩剧在线.json"},
-{"key":"csp_xbb_全能影视","name":"🍀全能影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/全能影视.json"},
-{"key":"csp_xbb_锐行加速","name":"🍀锐行加速","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/锐行加速.json"},
-{"key":"csp_xbb_干饭影视","name":"🍀干饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/干饭影视.json"},
-{"key":"csp_xbb_AB影院","name":"🍀AB影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/AB影院.json"},
-{"key":"csp_xbb_稀饭影视","name":"🍀稀饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/稀饭影视.json"},
-{"key":"csp_xbb_我爱跟剧","name":"🍀我爱跟剧","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/我爱跟剧.json"},
-{"key":"csp_xbb_漫岛动漫","name":"🍀漫岛动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/漫岛动漫.json"},
-{"key":"csp_xbb_维奇动漫","name":"🍀维奇动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/维奇动漫.json"},
-{"key":"csp_xbb_风车动漫","name":"🍀风车动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/风车动漫.json"},
-{"key":"csp_xbb_去看吧","name":"🍀看吧动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/去看吧.json"},
-{"key":"csp_xbb_瓜皮TV","name":"🍀瓜皮TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/瓜皮TV.json"},
-{"key":"csp_xbb_大象TV","name":"🍀大象TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/大象TV.json"},
-{"key":"csp_xbb_348电影网","name":"🍀348电影网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/348电影网.json"},
-{"key":"csp_xbb_开心果电影网","name":"🍀开心果电影网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/开心果电影网.json"},
-{"key":"csp_xbb_VIP电影院","name":"🍀VIP电影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/VIP电影院.json"},
-
-{"key":"csp_xbb_奈菲影院","name":"🍀奈菲影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/奈菲影院.json"},
-{"key":"csp_xbb_星空影视","name":"🍀星空影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/星空影视.json"},
-{"key":"csp_xbb_完美看看","name":"🍀完美看看","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/完美看看影视.json"},
-{"key":"csp_xbb_剧白白","name":"🍀剧白白2","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/剧白白-蓝光.json"},
+	
 {"key":"csp_xbb_LIBVIO","name":"🍀LIBVIO","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/LIBVIO.json"},
-{"key":"csp_xbb_在线之家","name":"🍀在线之家","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/在线之家.json"},
-{"key":"csp_xbb_天空资源","name":"🍀天空资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/天空资源.json"},
-{"key":"csp_xbb_克拉TV","name":"🍀克拉TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/克拉TV.json"},
-{"key":"csp_xbb_耐看点播","name":"🍀耐看点播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/耐看点播.json"},
-{"key":"csp_xbb_乌龟影院","name":"🍀乌龟影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/乌龟影院.json"},
-{"key":"csp_xbb_北川影视","name":"🍀北川影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/北川影视.json"},
-{"key":"csp_xbb_口袋影院","name":"🍀口袋影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/口袋影院.json"},
-{"key": "csp_xbb_神马tv8","name":"🍀神马tv8","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/神马tv8.json"},
-{"key":"csp_xbb_花猫TV","name":"🍀花猫TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/花猫TV.json"},
-{"key":"csp_xbb_VIP1280","name":"🍀VIP1280","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/VIP1280.json"},
 {"key":"csp_xbb_COKEMV","name":"🍀COKEMV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/COKEMV.json"},
 {"key":"csp_xbb_hdmoli","name":"🍀hdmoli","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/hdmoli.json"},
 
-{"key":"csp_xbb_炫猫影视","name":"🍀炫猫影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/炫猫影视.json"},
-{"key":"csp_xbb_九州影视","name":"🍀九州影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/九州影视.json"},
-{"key":"csp_xbb_31看影视","name":"🍀31看影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/31看影视.json"},
 {"key":"csp_xbb_创艺影视","name":"🍀创艺影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/创艺影视.json"},
-{"key":"csp_xbb_骚火电影","name":"🍀骚火电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/骚火电影.json"},
-{"key":"csp_xbb_六度TV","name":"🍀六度TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/六度TV.json"},
-{"key":"csp_xbb_如如影视","name":"🍀如如影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/如如影视.json"},
 {"key":"csp_xbb_看一看影视","name":"🍀看一看影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/看一看影视.json"},
 {"key":"csp_xbb_789影视","name":"🍀789影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/789影视.json"},
 {"key":"csp_xbb_人人影视","name":"🍀人人影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/人人影视.json"},
-{"key":"csp_xbb_chok8电影","name":"🍀chok8电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/chok8电影.json"},
-{"key":"csp_xbb_爱港剧","name":"🍀爱港剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/爱港剧.json"},
-{"key":"csp_xbb_手机看剧","name":"🍀手机看剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/手机看剧.json"},
-{"key":"csp_xbb_哔嘀影视","name":"🍀Bidi影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/哔嘀影视.json"},
-{"key":"csp_xbb_利丽娅电影","name":"🍀利丽娅电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/利丽娅电影.json"},
-{"key":"csp_xbb_七年影视","name":"🍀七年影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/七年影视.json"},
-{"key":"csp_xbb_大象TV","name":"🍀大象TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/大象TV.json"},
 
 {"key":"csp_xbb_牛马TV","name":"🍀牛马TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/牛马TV.json"},
 {"key":"csp_xbb_豆角网","name":"🍀豆角网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXB/豆角网.json"},
@@ -1028,10 +984,10 @@
 //"spider":"https://gitee.com/io9/java/raw/master/jar/hail1.png"
 //"spider":"https://gitee.com/io9/java/raw/master/jar/hail2.png"
 //"spider":"https://gitee.com/io9/java/raw/master/jar/hail3.png"
-"spider":"https://gitee.com/io9/java/raw/master/jar/hail4.png"
+//"spider":"https://gitee.com/io9/java/raw/master/jar/hail4.png"
 //"spider":"https://gitee.com/io9/java/raw/master/jar/hail5.png"
 
-//"spider":"https://gitee.com/io9/java/raw/master/jar/0907.jar"
+"spider":"https://gitee.com/io9/java/raw/master/jar/0907.jar"
 
 	
 }
