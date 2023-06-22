@@ -353,8 +353,8 @@
 //{"key":"mtv_哔哩兔源","name":"哔兔","type":3,"api":"csp_xBPQ"  ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/哔哩兔源.json"},
 {"key":"mtv_西瓜影视","name":"西瓜","type":3,"api":"csp_XPathMac" ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/西瓜影视.json"},
 
-{"key":"csp_XBPQ新视觉","name":"🌟┃视觉┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/新视觉影院.json"},	
-{"key": "csp_appys_xc", "name": "🏰┃小城┃影视","type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1,"filterable": 1, "ext": "https://jx.ccabc.cc/fanfan/api.php/app/"},	
+//{"key":"csp_XBPQ新视觉","name":"🌟┃视觉┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/新视觉影院.json"},	
+//{"key": "csp_appys_xc", "name": "🏰┃小城┃影视","type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1,"filterable": 1, "ext": "https://jx.ccabc.cc/fanfan/api.php/app/"},	
 {"key":"csp_Cokemv","name":"🚗可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},	
 {"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/lgyy.json"},	
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
@@ -367,7 +367,7 @@
 //{"key": "Alist2","name": "🅿┃Alis ┃搜索","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/jh.json","jar":"http://我不是.肥猫.love:63/Jar/Alist3.jar;md5;906B337D4B4BAEF13292D004E5FD8F9B"},
 //{"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/alist.json"},
 {"key":"AList","name":"🍰AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/Alist_XS.json","jar":"https://gitee.com/io9/json/raw/master/json/JS2/js/FM.jar"},
-{"key":"csp_Paper","name":"📜┃纸条┃云盘","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/io9/java/raw/master/jar/hail1.png ;md5;3422df37c71ed653ec51136d269d2054"},
+//{"key":"csp_Paper","name":"📜┃纸条┃云盘","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/io9/java/raw/master/jar/hail1.png ;md5;3422df37c71ed653ec51136d269d2054"},
 
 //{"key": "Tian","name": "🐾┃天天┃影视","type": -1,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"bdc1c75081e5e477189a463baa47e392"},
 //{"key":"Xinsj","name":"🌟┃视觉┃影视","type":"3","api":"csp_Xinsj","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://www.6080yy2.com"},
