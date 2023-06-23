@@ -24,6 +24,46 @@
             "filterable": 1,
             "ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/野荷塘.json"
         },
+
+	        {
+            "key": " 在线┃直播",
+            "name": "📺┃竞技┃直播",
+            "type": 3,
+            "api": "csp_Yj1211",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "PPY",
+            "name": "🦆┃鸭鸭┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "1",
+            "ext": "http://我不是.肥猫.love:63/json/云云.json",
+            "jar": "http://xhww.fun:63/小米/小暴脾气4.jar;md5;4bb3f45530fff959b029e2af6dec6c21"
+        },
+
+        {
+            "key": "飞速",
+            "name": "🚄┃飞速┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://longfei.lfytyl.com/api.php/app/"
+        },
+	 {
+            "key": "csp_Ying",
+            "name": "🌸┃樱花┃动漫",
+            "type": 3,
+            "api": "csp_Ying",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
 	 {
             "key": "爱奇艺",
             "name": "爱奇艺┃官源",
