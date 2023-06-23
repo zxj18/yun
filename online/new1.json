@@ -2,13 +2,9 @@
 "sites":[
 
 //"playurl":"json:http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="
-	
-	
-
-
-    {
+	    {
       "key": "非凡",
-      "name": "️🐝┃非凡┃已去广告",
+      "name": "️非凡",
       "type": 1,
       "api": "https://www.ah121.com/api.php/provide/vod/from/ffm3u8/?at/xml/",
       "searchable": 1,
@@ -37,7 +33,7 @@
     },
 {
 			"key": "量子云播",
-			"name": "🐝┃量子┃已去广告",
+			"name": "量子",
 			"type": 1,
 			"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
 			"searchable": 1,
@@ -45,6 +41,45 @@
 			"filterable": 1
 			
 },
+{"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"https://gitee.com/io9/json/raw/master/json/JS2/lib/drpy2.min.js","ext":"https://raw.fastgit.org/zxj18/yun/master/json/JS2/js/优酷.js"},
+{"key":"好趣网","name":"电视 | 好趣网[js]","type":3,"api":"http://tv.nxog.top/m/js/lib/drpy2.min.js","ext":"http://tv.nxog.top/m/js/js/好趣网.js"}, 
+{"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"http://tv.nxog.top/m/js/lib/drpy2.min.js","ext":"http://tv.nxog.top/m/js/js/360影视.js"},
+{"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"http://tv.nxog.top/m/js/lib/drpy2.min.js","ext":"http://tv.nxog.top/m/js/js/奇珍异兽.js"},
+{"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"http://tv.nxog.top/m/js/lib/drpy2.min.js","ext":"http://tv.nxog.top/m/js/js/腾云驾雾.js"},
+{"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"api":"http://tv.nxog.top/m/js/lib/drpy2.min.js","ext":"http://tv.nxog.top/m/js/js/百忙无果.js"},
+{"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"http://tv.nxog.top/m/js/lib/drpy2.min.js","ext":"http://tv.nxog.top/m/js/js/菜狗.js"},
+
+
+	        {
+            "key": "PPY",
+            "name": "🦆┃鸭鸭┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "1",
+            "ext": "http://我不是.肥猫.love:63/json/云云.json",
+            "jar": "http://xhww.fun:63/小米/小暴脾气4.jar;md5;4bb3f45530fff959b029e2af6dec6c21"
+        },
+
+        {
+            "key": "飞速",
+            "name": "🚄┃飞速┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://longfei.lfytyl.com/api.php/app/"
+        },
+	 {
+            "key": "csp_Ying",
+            "name": "🌸┃樱花┃动漫",
+            "type": 3,
+            "api": "csp_Ying",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
 
 	
 	{
