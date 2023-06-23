@@ -3,7 +3,7 @@
 
 //"playurl":"json:http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="
 	
- {"key":"csp_XYQHiker素白白","name":"🐛素白白┃嗅探","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://jk.itvbox.cc:66/tvbox/云星日记/sh/MaooXB/素白白.json"},
+{"key":"csp_XYQHiker素白白","name":"🐛素白白┃嗅探","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://jk.itvbox.cc:66/tvbox/云星日记/sh/MaooXB/素白白.json"},
 {"key":"霹雳影视","name":"🐛霹雳┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://jk.itvbox.cc:66/tvbox/云星日记/sh/MaooXB/霹雳影视.json"},
 {"key":"兔兔瓜","name":"🐛兔兔瓜┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://jk.itvbox.cc:66/tvbox/云星日记/sh/MaooXB/兔兔瓜.json"},
 {"key":"剧白白","name":"🐛剧白白┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://jk.itvbox.cc:66/tvbox/云星日记/sh/MaooXB/剧白白.json"},
@@ -55,6 +55,16 @@
         "动漫电影"
       ]
     },
+{
+			"key": "量子云播",
+			"name": "🐝┃量子┃已去广告",
+			"type": 1,
+			"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"playUrl": "json:https://chaxun.truechat365.com/?url="
+},
 
 	
 	{
