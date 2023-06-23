@@ -43,7 +43,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"playUrl": "json:https://chaxun.truechat365.com/?url="
+			
 },
 
 	
@@ -175,7 +175,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://cms.maoyingshi.cc/api.php/app/"
+            "ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/app"
         },
 
 	  {
