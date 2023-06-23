@@ -2,7 +2,8 @@
 "sites":[
 
 //"playurl":"json:http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="
-	    {
+
+  {
       "key": "非凡",
       "name": "️非凡",
       "type": 1,
@@ -31,7 +32,8 @@
         "动漫电影"
       ]
     },
-{
+
+  {
 			"key": "量子云播",
 			"name": "量子",
 			"type": 1,
@@ -40,15 +42,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 			
-},
-{"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"https://gitee.com/io9/json/raw/master/json/JS2/lib/drpy2.min.js","ext":"https://raw.fastgit.org/zxj18/yun/master/json/JS2/js/优酷.js"},
-{"key":"好趣网","name":"电视 | 好趣网[js]","type":3,"api":"http://tv.nxog.top/m/js/lib/drpy2.min.js","ext":"http://tv.nxog.top/m/js/js/好趣网.js"}, 
-{"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"http://tv.nxog.top/m/js/lib/drpy2.min.js","ext":"http://tv.nxog.top/m/js/js/360影视.js"},
-{"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"http://tv.nxog.top/m/js/lib/drpy2.min.js","ext":"http://tv.nxog.top/m/js/js/奇珍异兽.js"},
-{"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"http://tv.nxog.top/m/js/lib/drpy2.min.js","ext":"http://tv.nxog.top/m/js/js/腾云驾雾.js"},
-{"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"api":"http://tv.nxog.top/m/js/lib/drpy2.min.js","ext":"http://tv.nxog.top/m/js/js/百忙无果.js"},
-{"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"http://tv.nxog.top/m/js/lib/drpy2.min.js","ext":"http://tv.nxog.top/m/js/js/菜狗.js"},
-
+   },
 
 	        {
             "key": "PPY",
@@ -70,6 +64,8 @@
             "filterable": 1,
             "ext": "http://longfei.lfytyl.com/api.php/app/"
         },
+
+
 	 {
             "key": "csp_Ying",
             "name": "🌸┃樱花┃动漫",
@@ -79,6 +75,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
+
+
+{"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"https://gitee.com/io9/json/raw/master/json/JS2/lib/drpy2.min.js","ext":"https://raw.fastgit.org/zxj18/hailjson/master/json/JS2/优酷.js"},
+{"key":"好趣网","name":"电视 | 好趣网[js]","type":3,"api":"https://gitee.com/io9/json/raw/master/json/JS2/lib/drpy2.min.js","ext":"https://raw.fastgit.org/zxj18/hailjson/master/json/JS2/好趣网.js"}, 
+{"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"https://gitee.com/io9/json/raw/master/json/JS2/lib/drpy2.min.js","ext":"https://raw.fastgit.org/zxj18/hailjson/master/json/JS2/360影视.js"},
+{"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://gitee.com/io9/json/raw/master/json/JS2/lib/drpy2.min.js","ext":"https://raw.fastgit.org/zxj18/hailjson/master/json/JS2/奇珍异兽.js"},
+{"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"https://gitee.com/io9/json/raw/master/json/JS2/lib/drpy2.min.js","ext":"https://raw.fastgit.org/zxj18/hailjson/master/json/JS2/腾云驾雾.js"},
+{"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"api":"https://gitee.com/io9/json/raw/master/json/JS2/lib/drpy2.min.js","ext":"https://raw.fastgit.org/zxj18/hailjson/master/json/JS2/百忙无果.js"},
+{"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"https://gitee.com/io9/json/raw/master/json/JS2/lib/drpy2.min.js","ext":"https://raw.fastgit.org/zxj18/hailjson/master/json/JS2/菜狗.js"},
 
 
 	
