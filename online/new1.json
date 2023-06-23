@@ -3,27 +3,7 @@
 
 //"playurl":"json:http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="
 	
-{"key":"csp_XYQHiker素白白","name":"🐛素白白┃嗅探","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://jk.itvbox.cc:66/tvbox/云星日记/sh/MaooXB/素白白.json"},
-{"key":"霹雳影视","name":"🐛霹雳┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://jk.itvbox.cc:66/tvbox/云星日记/sh/MaooXB/霹雳影视.json"},
-{"key":"兔兔瓜","name":"🐛兔兔瓜┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://jk.itvbox.cc:66/tvbox/云星日记/sh/MaooXB/兔兔瓜.json"},
-{"key":"剧白白","name":"🐛剧白白┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://jk.itvbox.cc:66/tvbox/云星日记/sh/MaooXB/剧白白.json"},
-{"key":"Vidhub","name":"🐛Vidhub┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://jk.itvbox.cc:66/tvbox/云星日记/sh/MaooXB/Vidhub.json"},
-{"key":"98影院","name":"🐛98┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://jk.itvbox.cc:66/tvbox/云星日记/98影院.json"},
 	
-{"key": "歌舞","name": "💃印度歌舞","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://jk.itvbox.cc:66/tvbox/云星日记/sh/Bilibili/印度歌舞.json"},
-{"key": "小姐姐","name": "💃哔哩小姐姐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://jk.itvbox.cc:66/tvbox/云星日记/sh/Bilibili/哔哩xjj.json"},
-{"key": "车模","name": "💃哔哩车模","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://jk.itvbox.cc:66/tvbox/云星日记/sh/Bilibili/哔哩车模.json"},
-{"key": "舞蹈","name": "🎗️哔哩舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://jk.itvbox.cc:66/tvbox/云星日记/sh/Bilibili/云星舞蹈.json"},
-{"key": "演唱会自定义","name": "🌈演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://jk.itvbox.cc:66/tvbox/云星日记/sh/Bilibili/云星演唱会.json"},
-{"key": "MV","name": "🌈哔哩MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://jk.itvbox.cc:66/tvbox/云星日记/sh/Bilibili/云星MTV.json"},
-{"key": "戏曲自定义","name": "📺哔哩戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://jk.itvbox.cc:66/tvbox/云星日记/sh/Bilibili/云星戏曲.json"},
-{"key": "解说","name": "⚽️电影解说","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://jk.itvbox.cc:66/tvbox/云星日记/sh/Bilibili/云星影视解说.json"},
-{"key": "球类","name": "⚽️球球合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://jk.itvbox.cc:66/tvbox/云星日记/sh/Bilibili/云星球球.json"},
-{"key": "美食","name": " 🧡美食合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://jk.itvbox.cc:66/tvbox/云星日记/sh/Bilibili/云星美食.json"},
-{"key": "棋牌","name": " 💔棋牌合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://jk.itvbox.cc:66/tvbox/云星日记/sh/Bilibili/云星棋牌.json"},
-{"key": "PS","name": "🎉PS教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://jk.itvbox.cc:66/tvbox/云星日记/sh/Bilibili/哔哩PS.json"},
-{"key": "外语","name": "🏠外语学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://jk.itvbox.cc:66/tvbox/云星日记/sh/Bilibili/哔哩外语.json"},
-{"key": "学堂","name": "🍉学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://jk.itvbox.cc:66/tvbox/云星日记/sh/Bilibili/云星学堂.json"},
 
 
     {
@@ -760,6 +740,10 @@
 {"key":"mtv_qipaiyule","name":"手游","type":3,"api":"csp_Bili"  ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/qipaiyule.json"},	
 {"key":"美食","name":"🍔美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"},
 
+{"key": "美食","name": " 🧡美食合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/海量美食.json"},
+{"key": "棋牌","name": " 💔棋牌合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/棋牌合集.json"},
+
+	
 {
       "key": "js_B站精简",
       "name": "🅱️┃哔哩┃精简",
@@ -770,6 +754,15 @@
       "filterable": 1,
       "ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/B站精简.js"
     },	
+
+{"key": "歌舞","name": "💃印度歌舞","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/印度歌舞.json"},
+{"key": "小姐姐","name": "💃哔哩小姐姐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/哔哩xjj.json"},
+{"key": "车模","name": "💃哔哩车模","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/哔哩车模.json"},
+{"key": "舞蹈","name": "🎗️哔哩舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/舞蹈.json"},
+{"key": "演唱会自定义","name": "🌈演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/演唱会.json"},
+{"key": "MV","name": "🌈哔哩MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/MTV.json"},
+{"key": "戏曲自定义","name": "📺海量戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/海量戏曲.json"},	
+{"key": "解说","name": "⚽️电影解说","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/影视解说.json"},	
 {"key":"戏曲","name":"👘戏曲合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤经典MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/%E7%BB%8F%E5%85%B8MV.json"},
 {"key":"音乐","name":"🎤音乐现场","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"},
@@ -800,6 +793,7 @@
 {"key": "dr_88看球","name": "🏀┃八八┃看球","type": 3,"api": "https://gitee.com/io9/json/raw/master/json/JS2/lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/88看球.js"},
 {"key": "JRS看球网","name": "🏀┃JRS┃看球","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/dj看球.json"},
 {"key":"drpy_js_JRKAN直播","name":"🏀┃JRS┃看球","type":3,"api":"https://gitee.com/io9/json/raw/master/json/JS2/lib/drpy2.min.js","ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/JRKAN直播.js"},
+{"key": "球类","name": "⚽️球类合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/球类合集.json"},
 
 	{
       "key": "drpy_js_兔小贝",
@@ -807,7 +801,12 @@
       "type": 3,
       "api": "https://gitee.com/io9/json/raw/master/json/xiaosa/drpy.min.js",
       "ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/兔小贝.js"
-    },	
+    },
+
+
+{"key": "PS","name": "🎉PS教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/PS教程.json"},
+{"key": "外语","name": "🏠外语学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/外语.json"},
+{"key": "学堂","name": "🍉学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/学堂.json"},	
 {"key":"儿童","name":"🐯儿童乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"},
 {"key":"学习","name":"📝学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"},
 {"key":"软件","name":"📚软件教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"},
