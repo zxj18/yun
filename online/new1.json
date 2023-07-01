@@ -463,7 +463,7 @@
 {"key":"飞速资源","name":"飞速资源(切)","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},	
 {"key":"人人影视","name":"🈚人人影视(优)","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},	
 {"key":"映迷","name":"映迷(优)","type":1,"api":"https://www.inmi.app/api.php/provide/vod/","searchable":1,"quickSearch":1},
-/{"key":"csp_XBPQ吼吼影视","name":"🎞️吼吼影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/zxj18/yun/master/json/JS2/%E5%90%BC%E5%90%BC.json","jar":"https://gitee.com/io9/java/raw/master/jar/xBPQ_1106.jar"},
+//{"key":"csp_XBPQ吼吼影视","name":"🎞️吼吼影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/zxj18/yun/master/json/JS2/%E5%90%BC%E5%90%BC.json","jar":"https://gitee.com/io9/java/raw/master/jar/xBPQ_1106.jar"},
 //{"key":"csp_XBPQ石榴影视","name":"🎞️石榴电影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/zxj18/yun/master/json/JS2/%E7%9F%B3%E6%A6%B4%E7%94%B5%E5%BD%B1.json","jar":"https://gitee.com/io9/java/raw/master/jar/xBPQ_1106.jar"},	
 {"key":"csp_XBPQTVB影视","name":"🎞️TVB云播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/zxj18/yun/master/json/JS2/TVB%E4%BA%91%E6%92%AD.json","jar":"https://gitee.com/io9/java/raw/master/jar/xBPQ_1106.jar"},	
 
