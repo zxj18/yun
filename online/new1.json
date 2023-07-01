@@ -2,7 +2,8 @@
 
 
 "sites":[
-    
+
+{"key": "公告","name": "🐬海豚公告","type": 3,"api": "csp_Notice","searchable": 1,"changeable": 1,"ext": "https://gitee.com/io9/yunup/raw/main/hailiang/gdfmts","jar":"https://gitee.com/io9/java/raw/master/jar/haituntz.jar"},   
 {"key": "drpy_js_海豚影音","name": "🐬海豚影音","type": 3, "api": "https://gitee.com/io9/json/raw/master/json/xiaosa/drpy.min.js","ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/%E6%B5%B7%E8%B1%9A%E5%BD%B1%E9%9F%B3.js"},
 {"key":"drpy_js_优酷","name":"官源 | 优酷","type":3,"api":"https://gitee.com/io9/json/raw/master/json/JS2/lib/drpy2.min.js","ext":"https://raw.fastgit.org/zxj18/hailjson/master/json/JS2/优酷.js"},
 { "key": "豆瓣推荐","name": "豆瓣┃推荐","type": 3,"api": "https://gitee.com/io9/json/raw/master/json/JS2/lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/豆瓣.js"},
@@ -81,9 +82,8 @@
 //{"key" : "drpy_js_创艺","name" : "🎞️创艺影视","type":3,"api" : "https://gitee.com/io9/json/raw/master/json/xiaosa/drpy.min.js", "ext" : "https://gitee.com/io9/json/raw/master/json/JS2/js/%E5%88%9B%E8%89%BA%E5%BD%B1%E8%A7%86.js"},
 //{"key":"drpy_js_快看","name":"🕵快看🕵","type":3,"api":"https://gitee.com/io9/json/raw/master/json/xiaosa/drpy.min.js","ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/快看.js"},
 //{"key":"影探4K","name":"💧影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://get.lfytyl.com/api.php/app/","playUrl":"json:https://jx.4kdv.com/?url="},
-	 
 
-        {
+  {
             "key": "飞速",
             "name": "🚄┃飞速┃影视",
             "type": 3,
@@ -91,7 +91,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "http://longfei.lfytyl.com/api.php/app/"
+            "ext": "https://www.lfytv.cn/api.php/app/"
         },
 
         {
@@ -772,10 +772,36 @@
     ],
     
 
+"dairyWords": [{
+    "name": "rating",
+    "request": {
+     "method": "GET",
+     "url": {
+      "raw": "https://v1.hitokoto.cn/?c=f&encode=text"
+     }
+    },
+    "response": {
+        "result": "$.data.content"
+    },
+    "expires" : "43200"
+}],
 
-"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+"drives": [{"server":"","userName":"","password":"","type":"webdav"}],
 
-"spider":"https://gitee.com/io9/java/raw/master/jar/hail.png"
+
+
+"showtext": "https://v1.hitokoto.cn/?c=f&encode=text",
+
+//"wallpaper": "https://cainisi.cf/壁纸",
+//"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+"wallpaper":"https://picsum.photos/1280/720/?blur=10",
+//"wallpaper":"https://www.dmoe.cc/random.php",
+
+
+
+//"spider":"https://gitee.com/io9/java/raw/master/jar/haituntz.jar"
+
+"spider":"https://gitee.com/io9/java/raw/master/jar/haitunlove.png"
 //"spider":"https://gitee.com/io9/java/raw/master/jar/hail1.png"
 //"spider":"https://gitee.com/io9/java/raw/master/jar/hail2.png"
 //"spider":"https://gitee.com/io9/java/raw/master/jar/hail3.png"
