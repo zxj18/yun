@@ -1,5 +1,5 @@
 🐬海豚随机音乐,#genre#
-QQ音乐,https://apis.jxcxin.cn/api/qqrandommusic
+QQ音乐,https://apis.jxcxin.cn/api/qqrandommusic&&&https://tuapi.eees.cc/api.php?category=fengjing&type=302
 网易云音乐,https://api.uomg.com/api/rand.music
 动漫音乐,https://api.paugram.com/acgm/?list=1&play=true
 
