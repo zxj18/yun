@@ -20,7 +20,7 @@
     //分类名，分类1&分类2&分类3
     "class_name": "4K高清区&3D电影&最新电影&经典高清&国配电影&经典港片&国剧&日韩剧&美剧&综艺&动漫&纪录片&高清原盘&电影专题",
     //分类名替换词，替换词1&替换词2&替换词3，替换词包含英文&的用两个中文＆＆代替，示例：＆＆id=0&＆＆id=1
-    "class_value": "4K&3d&ys&bd&gy&gp&dsj&dsj1&yx&zy&dmq&jilupian&1080p&4K&3d&dyzt",
+    "class_value": "4K&3d&ys&bd&gy&gp&dsj&dsj1&yx&zy&dmq&jilupian&1080p&dyzt",
     //筛选数据，json格式，参考xpath的筛选写法
     "filterdata":{},
     
