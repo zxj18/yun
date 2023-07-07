@@ -365,11 +365,8 @@
 //{"key":"csp_Nkdy","name":"⏺南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/io9/java/raw/master/jar/hail4.png ;md5;0a7b50ab24101344ad09260003144e46","ext":"https://www.nkdy.com"},
 
 
-{"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/smtyu/box2/raw/main/sub/MeowXP/yinghua.json"},
-{"key":"Dm84r","name":"🚒Dm84","api":"csp_Dm84","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gitee.com/io9/java/raw/master/jar/cs.jar;md5;88d469a5f878ca185aabf789acab3bee"},
 {"key":"csp_xp_agemys","name":"💢AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/agemys.json"},
-{"key":"Dm84","name":" 🦸┃动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_Ysj","name": "🐲┃异界┃动漫","type": 3,"api": "csp_Ysj","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"Dm84","name":" 🦸┃动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dm84.vip/"},
 {"key": "csp_Anime1","name": "💀┃日本┃动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/yinghua.json"},		
 {"key":"drpy_js_58动漫","name":"🖍︎58动漫","type":3,"api":"https://gitee.com/io9/json/raw/master/json/xiaosa/drpy.min.js","ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/58动漫.js"},
@@ -383,7 +380,7 @@
 {"key":"drpy_js_NT动漫","name":"💆🏾‍NT动漫","type":3,"api":"https://gitee.com/io9/json/raw/master/json/xiaosa/drpy.min.js","ext":"https://raw.fastgit.org/zxj18/yun/master/json/JS2/NT%E5%8A%A8%E6%BC%AB.js"},
 {"key":"drpy_js_曲奇动漫","name":"🍪曲奇动漫","type":3,"api":"https://gitee.com/io9/json/raw/master/json/xiaosa/drpy.min.js","ext":"https://raw.fastgit.org/zxj18/yun/master/json/JS2/%E6%9B%B2%E5%A5%87%E5%8A%A8%E6%BC%AB.js"},
 {"key":"drpy_js_动漫岛","name":"🚙动漫岛","type":3,"api":"https://gitee.com/io9/json/raw/master/json/xiaosa/drpy.min.js","ext":"https://raw.fastgit.org/zxj18/yun/master/json/JS2/%E5%8A%A8%E6%BC%AB%E5%B2%9B.js"},
-{"key":"drpy_js_AGE动漫","name":"🕵AGE动漫🕵","type":3,"api":"https://gitee.com/io9/json/raw/master/json/xiaosa/drpy.min.js","ext":"https://gitee.com/io9/json/raw/master/json/JS2/AGE动漫.js"},
+//{"key":"drpy_js_AGE动漫","name":"🕵AGE动漫🕵","type":3,"api":"https://gitee.com/io9/json/raw/master/json/xiaosa/drpy.min.js","ext":"https://gitee.com/io9/json/raw/master/json/JS2/AGE动漫.js"},
 //{"key":"drpy_js_91free","name":"🃙91free","type":3,"api":"https://gitee.com/io9/json/raw/master/json/xiaosa/drpy.min.js","ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/91free.js"},	
 //{"key":"drpy_js_去看吧","name":"👁️去看吧","type":3,"api":"https://gitee.com/io9/json/raw/master/json/xiaosa/drpy.min.js","ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/去看吧.js"},	
 //{"key":"csp_xpath___动漫巴士","name":"🤖动漫巴士","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"},	
