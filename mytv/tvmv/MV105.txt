@@ -1,4 +1,4 @@
-MV,#genre#
+MV105,#genre#
 李玖哲-想太多,http://em.21dtv.com/songs/60049240.mkv
 范玮琪-想太多,http://em.21dtv.com/songs/60049239.mkv
 MR.-想太多,http://em.21dtv.com/songs/60049238.mkv

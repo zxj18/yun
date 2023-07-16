@@ -1,4 +1,4 @@
-MV,#genre#
+MV121,#genre#
 王丽达-包楞调,http://em.21dtv.com/songs/60111261.mkv
 褚海辰-包楞调,http://em.21dtv.com/songs/60081859.mkv
 尤翊霖-别罗嗦,http://em.21dtv.com/songs/60082625.mkv

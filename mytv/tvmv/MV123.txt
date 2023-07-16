@@ -1,4 +1,4 @@
-MV,#genre#
+MV123,#genre#
 谷云龙-最酷,http://em.21dtv.com/songs/60062398.mkv
 容祖儿-罪魁,http://em.21dtv.com/songs/60060472.mkv
 张萱妍-走开,http://em.21dtv.com/songs/60059919.mkv

@@ -1,4 +1,4 @@
-MV,#genre#
+MV120,#genre#
 谢雷-出日头,http://em.21dtv.com/songs/60012956.mkv
 龙千玉-唱人生,http://em.21dtv.com/songs/60117421.mkv
 YUI-che r ry,http://em.21dtv.com/songs/60032597.mkv

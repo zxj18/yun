@@ -1,4 +1,4 @@
-MV,#genre#
+MV126,#genre#
 米娜-喜欢(演唱会),http://em.21dtv.com/songs/60048109.mkv
 痛仰乐队-西湖(演唱会),http://em.21dtv.com/songs/60047924.mkv
 苏振华-习惯,http://em.21dtv.com/songs/60134159.mkv

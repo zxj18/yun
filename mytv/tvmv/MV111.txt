@@ -1,4 +1,4 @@
-MV,#genre#
+MV111,#genre#
 李翊君-亲爱的,http://em.21dtv.com/songs/60083624.mkv
 钟瑾桦-亲爱的,http://em.21dtv.com/songs/60077168.mkv
 藤兮-亲爱的,http://em.21dtv.com/songs/60077167.mkv

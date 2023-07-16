@@ -1,4 +1,4 @@
-MV,#genre#
+MV131,#genre#
 流苏-青灯,http://em.21dtv.com/songs/60085601.mkv
 囚鸟-情毒,http://em.21dtv.com/songs/60083656.mkv
 灯塔-情毒,http://em.21dtv.com/songs/60083655.mkv

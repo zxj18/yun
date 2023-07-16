@@ -1,4 +1,4 @@
-MV,#genre#
+MV104,#genre#
 佚名-烟花翠,http://em.21dtv.com/songs/60051947.mkv
 李碧华-烟花翠,http://em.21dtv.com/songs/60051946.mkv
 赵雅萱-缘和爱,http://em.21dtv.com/songs/60122153.mkv

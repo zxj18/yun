@@ -1,4 +1,4 @@
-MV,#genre#
+MV128,#genre#
 张惠妹-听海,http://em.21dtv.com/songs/60042538.mkv
 张学友-听海(演唱会),http://em.21dtv.com/songs/60042537.mkv
 张惠妹-听海(演唱会),http://em.21dtv.com/songs/60042536.mkv

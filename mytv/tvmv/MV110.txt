@@ -1,4 +1,4 @@
-MV,#genre#
+MV110,#genre#
 冯弯弯-受不了,http://em.21dtv.com/songs/60125159.mkv
 暴林-伤别离,http://em.21dtv.com/songs/60119623.mkv
 祖海-伤别离,http://em.21dtv.com/songs/60091795.mkv

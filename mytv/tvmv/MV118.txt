@@ -1,4 +1,4 @@
-MV,#genre#
+MV118,#genre#
 荒山亮-风云行,http://em.21dtv.com/songs/60075395.mkv
 MICHI-find your way,http://em.21dtv.com/songs/60063594.mkv
 王天丽-访英台(演唱会),http://em.21dtv.com/songs/60082882.mkv

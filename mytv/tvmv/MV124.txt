@@ -1,4 +1,4 @@
-MV,#genre#
+MV124,#genre#
 婷婷-右手,http://em.21dtv.com/songs/60055480.mkv
 邱伟议-右手,http://em.21dtv.com/songs/60055479.mkv
 黄贯中-忧书,http://em.21dtv.com/songs/60054955.mkv

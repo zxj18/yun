@@ -1,4 +1,4 @@
-MV,#genre#
+MV101,#genre#
 孙楠-爱的生命(演唱会)(无原唱),http://em.21dtv.com/songs/60007363.mkv
 方瑞娥-爱的锁链,http://em.21dtv.com/songs/60007378.mkv
 婷婷-爱的胜利,http://em.21dtv.com/songs/60007364.mkv

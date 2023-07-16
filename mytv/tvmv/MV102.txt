@@ -1,4 +1,4 @@
-MV,#genre#
+MV102,#genre#
 杨洪基-祝岁曲,http://em.21dtv.com/songs/60059396.mkv
 凌晗-作死你,http://em.21dtv.com/songs/60084664.mkv
 何润东-醉生梦,http://em.21dtv.com/songs/60060527.mkv

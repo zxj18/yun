@@ -1,4 +1,4 @@
-MV,#genre#
+MV122,#genre#
 黄思婷-爱满满,http://em.21dtv.com/songs/60082490.mkv
 红弈-阿妹妹,http://em.21dtv.com/songs/60074282.mkv
 朱宇-艾米莉,http://em.21dtv.com/songs/60109412.mkv

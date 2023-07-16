@@ -1,4 +1,4 @@
-MV,#genre#
+MV108,#genre#
 JOHN DENVER-this old guitar(演唱会),http://em.21dtv.com/songs/60005764.mkv
 Michael Buble-To Be Loved,http://em.21dtv.com/songs/60127660.mkv
 CRAIG MORGAN-this old boy,http://em.21dtv.com/songs/60067997.mkv

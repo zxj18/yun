@@ -1,4 +1,4 @@
-MV143󠁂,#genre#
+MV143,#genre#
 groupName=十六万歌曲MV等 - 02
 PETER PAN-sahabat,http://em.21dtv.com/songs/60004788.mkv
 佚名-sacrifice,http://em.21dtv.com/songs/60004780.mkv

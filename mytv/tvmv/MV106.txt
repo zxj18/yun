@@ -1,4 +1,4 @@
-MV,#genre#
+MV106,#genre#
 小龙女-肖查某,http://em.21dtv.com/songs/60049419.mkv
 董贞-星辰泪,http://em.21dtv.com/songs/60112206.mkv
 陈冠希-新刺激,http://em.21dtv.com/songs/60050810.mkv

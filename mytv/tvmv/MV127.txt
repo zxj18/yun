@@ -1,4 +1,4 @@
-MV,#genre#
+MV127,#genre#
 江蕙-围巾,http://em.21dtv.com/songs/60044161.mkv
 2MORO-围巾,http://em.21dtv.com/songs/60044160.mkv
 S.H.E-围巾(演唱会),http://em.21dtv.com/songs/60044159.mkv

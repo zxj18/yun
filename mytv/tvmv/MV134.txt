@@ -1,4 +1,4 @@
-MV,#genre#
+MV134,#genre#
 谢雷-冷风,http://em.21dtv.com/songs/60135749.mkv
 解伟苓-浪费,http://em.21dtv.com/songs/60124465.mkv
 徐佳莹-浪费,http://em.21dtv.com/songs/60120562.mkv

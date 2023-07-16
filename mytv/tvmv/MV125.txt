@@ -1,4 +1,4 @@
-MV,#genre#
+MV125,#genre#
 李晓阳-许愿,http://em.21dtv.com/songs/60086067.mkv
 忘了又如何-小丫,http://em.21dtv.com/songs/60084221.mkv
 毕玉凝-祥云,http://em.21dtv.com/songs/60084188.mkv

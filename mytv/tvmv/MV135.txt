@@ -1,4 +1,4 @@
-MV,#genre#
+MV135,#genre#
 张杰+徐嘉苇-倔强,http://em.21dtv.com/songs/60112675.mkv
 邓业恩-倔强,http://em.21dtv.com/songs/60110567.mkv
 宋孟君-倔强,http://em.21dtv.com/songs/60110153.mkv
