@@ -1,4 +1,4 @@
-MV,#genre#
+MV10,#genre#
 张北北-在哪呢,http://em.21dtv.com/songs/60136422.mkv
 张信哲-迁徙,http://em.21dtv.com/songs/60136421.mkv
 张云凌+范玮琪-最重要的决定,http://em.21dtv.com/songs/60136420.mkv

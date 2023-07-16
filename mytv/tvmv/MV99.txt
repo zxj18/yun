@@ -1,4 +1,4 @@
-MV,#genre#
+MV99,#genre#
 李维-白狐-男声,http://em.21dtv.com/songs/60009670.mkv
 潘玮柏-壁虎漫步,http://em.21dtv.com/songs/60010444.mkv
 刘金洁-白桦林中,http://em.21dtv.com/songs/60113304.mkv

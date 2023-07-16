@@ -1,4 +1,4 @@
-MV,#genre#
+MV40,#genre#
 Area51-MYTIME,http://em.21dtv.com/songs/60123439.mkv
 陈晓东-每一天都想念,http://em.21dtv.com/songs/60029102.mkv
 郭静-每一天都不同,http://em.21dtv.com/songs/60029101.mkv

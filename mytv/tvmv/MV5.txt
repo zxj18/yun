@@ -1,4 +1,4 @@
-MV,#genre#
+MV5,#genre#
 新奇-今夜一杯酒,http://em.21dtv.com/songs/60145161.mkv
 断肠人在天涯+周传雄-爱你,http://em.21dtv.com/songs/60145160.mkv
 断肠人在天涯-一定要幸福,http://em.21dtv.com/songs/60145159.mkv

@@ -1,4 +1,4 @@
-MV,#genre#
+MV72,#genre#
 易帆-一世情愁,http://em.21dtv.com/songs/60053660.mkv
 易帆+车静子-一世情愁,http://em.21dtv.com/songs/60053659.mkv
 车静子-一世情愁,http://em.21dtv.com/songs/60053658.mkv

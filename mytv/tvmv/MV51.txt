@@ -1,4 +1,4 @@
-MV,#genre#
+MV51,#genre#
 东南-我是你最坏,http://em.21dtv.com/songs/60072558.mkv
 糯米-我是男子汉,http://em.21dtv.com/songs/60046134.mkv
 洪荣宏-我是男子汉,http://em.21dtv.com/songs/60046133.mkv

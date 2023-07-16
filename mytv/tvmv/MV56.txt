@@ -1,4 +1,4 @@
-MV,#genre#
+MV56,#genre#
 王绎龙-请你讲中文,http://em.21dtv.com/songs/60066255.mkv
 黄凯芹-请你记住我,http://em.21dtv.com/songs/60035567.mkv
 吕方-求你讲清楚,http://em.21dtv.com/songs/60035795.mkv

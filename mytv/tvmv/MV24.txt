@@ -1,4 +1,4 @@
-MV,#genre#
+MV24,#genre#
 张秋秋-长大后我成了你,http://em.21dtv.com/songs/60089865.mkv
 朱妍-真的很难忘记你,http://em.21dtv.com/songs/60058101.mkv
 [Group]

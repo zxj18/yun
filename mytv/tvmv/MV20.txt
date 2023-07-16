@@ -1,4 +1,4 @@
-MV,#genre#
+MV20,#genre#
 方季惟-我的故事你在听吗,http://em.21dtv.com/songs/60091261.mkv
 铁文太-我的父亲我的草原,http://em.21dtv.com/songs/60108101.mkv
 格格-我的父亲是牧马人,http://em.21dtv.com/songs/60045065.mkv

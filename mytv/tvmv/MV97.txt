@@ -1,4 +1,4 @@
-MV,#genre#
+MV97,#genre#
 F.I.R-彩色拼图,http://em.21dtv.com/songs/60011952.mkv
 李克勤-C3PO,http://em.21dtv.com/songs/60133792.mkv
 汤骏业-草食男女,http://em.21dtv.com/songs/60097339.mkv

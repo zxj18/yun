@@ -1,4 +1,4 @@
-MV,#genre#
+MV81,#genre#
 周杰伦-水手怕水,http://em.21dtv.com/songs/60064909.mkv
 李香兰-身世飘零,http://em.21dtv.com/songs/60038258.mkv
 佚名-4 seasons of loneliness,http://em.21dtv.com/songs/60000023.mkv

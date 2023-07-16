@@ -1,4 +1,4 @@
-MV,#genre#
+MV100,#genre#
 扬扬-爱情游戏(无原唱),http://em.21dtv.com/songs/60008465.mkv
 张信哲-爱情余味,http://em.21dtv.com/songs/60008472.mkv
 辛晓琪-爱情余味,http://em.21dtv.com/songs/60008471.mkv

@@ -1,4 +1,4 @@
-MV,#genre#
+MV92,#genre#
 刘广伟-嘿 朋友,http://em.21dtv.com/songs/60128822.mkv
 李日詹-害怕幸福,http://em.21dtv.com/songs/60121776.mkv
 金磊鑫-和平岁月,http://em.21dtv.com/songs/60066023.mkv

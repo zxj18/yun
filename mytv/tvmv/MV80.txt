@@ -1,4 +1,4 @@
-MV,#genre#
+MV80,#genre#
 孙翊轩-兔儿公主,http://em.21dtv.com/songs/60062967.mkv
 Iggy Azalea-Team,http://em.21dtv.com/songs/60121251.mkv
 Lorde-Team,http://em.21dtv.com/songs/60093932.mkv

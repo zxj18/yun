@@ -1,4 +1,4 @@
-MV,#genre#
+MV68,#genre#
 张伟文-安平追想曲,http://em.21dtv.com/songs/60056830.mkv
 佚名-安平追想曲,http://em.21dtv.com/songs/60009327.mkv
 邓丽君-安平追想曲,http://em.21dtv.com/songs/60009326.mkv

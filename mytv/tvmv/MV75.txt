@@ -1,4 +1,4 @@
-MV,#genre#
+MV75,#genre#
 李乐诗-限期过后,http://em.21dtv.com/songs/60048531.mkv
 赵羽-绣球飞飞,http://em.21dtv.com/songs/60126237.mkv
 吴名慧-心情电梯,http://em.21dtv.com/songs/60050429.mkv

@@ -1,4 +1,4 @@
-MV,#genre#
+MV43,#genre#
 秀兰玛雅-唱乎甲己来听,http://em.21dtv.com/songs/60127245.mkv
 窦靖童-Chimes,http://em.21dtv.com/songs/60120840.mkv
 华晨宇-春[HI歌],http://em.21dtv.com/songs/60106662.mkv

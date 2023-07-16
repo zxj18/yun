@@ -1,4 +1,4 @@
-MV,#genre#
+MV36,#genre#
 陈明栋-星期天的爱恋,http://em.21dtv.com/songs/60084649.mkv
 陈仁鹤-新秋天不回来,http://em.21dtv.com/songs/60102865.mkv
 宇恒-星期三的约会,http://em.21dtv.com/songs/60051086.mkv

@@ -1,4 +1,4 @@
-MV,#genre#
+MV90,#genre#
 许巍-救赎之旅,http://em.21dtv.com/songs/60104427.mkv
 吴小豪-金沙之恋,http://em.21dtv.com/songs/60087558.mkv
 铁木尔-金色珠兰,http://em.21dtv.com/songs/60024075.mkv

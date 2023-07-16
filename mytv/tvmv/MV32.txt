@@ -1,4 +1,4 @@
-MV,#genre#
+MV32,#genre#
 JENNIFER LOPEZ-do you know where youre going to,http://em.21dtv.com/songs/60001277.mkv
 龙剑笙-蝶影红梨记亭会,http://em.21dtv.com/songs/60075207.mkv
 阎维文-大运河奔腾的歌,http://em.21dtv.com/songs/60118990.mkv

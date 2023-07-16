@@ -1,4 +1,4 @@
-MV,#genre#
+MV64,#genre#
 严爵-贰零零零年,http://em.21dtv.com/songs/60080797.mkv
 乐童音乐家-200%,http://em.21dtv.com/songs/60099726.mkv
 中国力量-鄂伦春小调,http://em.21dtv.com/songs/60090481.mkv

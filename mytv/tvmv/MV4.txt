@@ -1,4 +1,4 @@
-MV,#genre#
+MV4,#genre#
 孟瑞-小勇敢,http://em.21dtv.com/songs/60146205.mkv
 孟杨-佛前一盏灯,http://em.21dtv.com/songs/60146204.mkv
 孟成昊+夏蓉-月满西楼,http://em.21dtv.com/songs/60146203.mkv

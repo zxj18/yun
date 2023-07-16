@@ -1,4 +1,4 @@
-MV,#genre#
+MV82,#genre#
 黎明-sugar in the marmalade,http://em.21dtv.com/songs/60005316.mkv
 GWEN STEFANI-4 in the morning,http://em.21dtv.com/songs/60000021.mkv
 LAWSON-standing in the dark,http://em.21dtv.com/songs/60071668.mkv

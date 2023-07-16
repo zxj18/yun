@@ -1,4 +1,4 @@
-MV,#genre#
+MV45,#genre#
 李霄云-至少还有你,http://em.21dtv.com/songs/60058814.mkv
 陈慧琳-至少还有你,http://em.21dtv.com/songs/60058813.mkv
 张敬轩-至少还有你(演唱会),http://em.21dtv.com/songs/60058812.mkv

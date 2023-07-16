@@ -1,4 +1,4 @@
-MV,#genre#
+MV50,#genre#
 任飞扬-兄弟遍天下,http://em.21dtv.com/songs/60123621.mkv
 海心+阿当-兄弟不容易,http://em.21dtv.com/songs/60104284.mkv
 吴晓荣-想对爸妈说,http://em.21dtv.com/songs/60100792.mkv

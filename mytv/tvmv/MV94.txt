@@ -1,4 +1,4 @@
-MV,#genre#
+MV94,#genre#
 张敬轩-孤单公园,http://em.21dtv.com/songs/60018859.mkv
 张敬轩-孤单公园(演唱会),http://em.21dtv.com/songs/60018858.mkv
 张敬轩+王菀之-孤单公园(演唱会),http://em.21dtv.com/songs/60018857.mkv

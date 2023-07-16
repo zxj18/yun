@@ -1,4 +1,4 @@
-MV,#genre#
+MV60,#genre#
 曹秀琴+梁耀安-孔雀东南飞,http://em.21dtv.com/songs/60025493.mkv
 音乐猫-哭泣的玫瑰,http://em.21dtv.com/songs/60025570.mkv
 邢美美-哭泣的玫瑰,http://em.21dtv.com/songs/60025569.mkv

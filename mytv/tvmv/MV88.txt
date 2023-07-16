@@ -1,4 +1,4 @@
-MV,#genre#
+MV88,#genre#
 苍井空-蓝色天空,http://em.21dtv.com/songs/60111371.mkv
 湘海-蓝色天空,http://em.21dtv.com/songs/60026108.mkv
 MAKIYO-蓝色天空,http://em.21dtv.com/songs/60026107.mkv
