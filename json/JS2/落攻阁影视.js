@@ -6,7 +6,7 @@ var rule = {
     host:'https://www.lggys.cn',
     // url:'/index.php/vod/show/id/fyclass/page/fypage.html',
 	//url:'/vodshow/id/fyclassfyfilter.html',
-	url:'/vodshow/{cateId}-{area}--{class}-{lang}-{by}------{year}.html',
+	url:'/vodshow/{cateId}-{area}--{class}-{lang}-{by}---{catePg}---{year}.html;;akd0',
 	
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}{{fl.letter}}/page/fypage{{fl.year}}',
