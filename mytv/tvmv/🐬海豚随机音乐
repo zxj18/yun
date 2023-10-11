@@ -1,4 +1,8 @@
 🐬海豚随机音乐,#genre#
-QQ音乐,https://apis.jxcxin.cn/api/qqrandommusic
+QQ音乐,https://apis.jxcxin.cn/api/qqmusic
 网易云音乐,https://api.uomg.com/api/rand.music
+酷我音乐,https://apis.jxcxin.cn/api/kuwo
+酷狗音乐,https://apis.jxcxin.cn/api/kugou
+咪咕音乐,https://apis.jxcxin.cn/api/migumusic
+全民K歌,https://apis.jxcxin.cn/api/kge
 动漫音乐,https://api.paugram.com/acgm/?list=1&play=true
