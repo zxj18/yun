@@ -2,7 +2,7 @@
 QQ音乐,https://apis.jxcxin.cn/api/qqrandommusic
 网易云音乐,https://api.uomg.com/api/rand.music
 酷我音乐,https://xiaobai.klizi.cn/API/music/random_kuwo.php
-酷狗音乐,https://apis.jxcxin.cn/api/kugou
+酷狗音乐,http://tingapi.ting.baidu.com/v1/restserver/ting
 咪咕音乐,https://apis.jxcxin.cn/api/migumusic
 全民K歌,https://apis.jxcxin.cn/api/kge
 动漫音乐,https://api.paugram.com/acgm/?list=1&play=true
