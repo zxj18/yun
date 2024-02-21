@@ -1,6 +1,6 @@
 
 {
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/zxj18/yunjava/main/jarall/hsy.jar",
+  "spider": "https://zxj18.github.io/yunjava/jarall/hsy.jar",
   "sites": [
     {
       "key": "csp_xpath_扛把子影院",
