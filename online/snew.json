@@ -1,5 +1,5 @@
 {
-"spider":"https://zxj18.github.io/zxj18/zhang-TVBOXZY/JAR/Yoursmile.jar",
+"spider":"https://zxj18.github.io/zxj18/yun/jarall/Yoursmile.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://ghproxy.com/https://raw.githubusercontent.com/jing123-3872/zhang-TVBOXZY/main/TV/live.txt"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 
